@@ -11,9 +11,9 @@ project(GTE VERSION ${GTE_VERSION_MAJOR}.${GTE_VERSION_MINOR})
 
 cmake_minimum_required(VERSION 3.8)
 
-add_library(gte INTERFACE)
-target_include_directories(gte INTERFACE
-  $<BUILD_INTERFACE:${gte_SOURCE_DIR}>
+add_library(GTE INTERFACE)
+target_include_directories(GTE INTERFACE
+  $<BUILD_INTERFACE:${GTE_SOURCE_DIR}>
   $<INSTALL_INTERFACE:include>
 )
 

@@ -10,9 +10,19 @@ set(PROJECT_SOURCE_DIR ${CMAKE_CURRENT_LIST_DIR})
 project(GTE VERSION ${GTE_VERSION_MAJOR}.${GTE_VERSION_MINOR})
 
 cmake_minimum_required(VERSION 3.8)
+
+add_library(gte INTERFACE)
+target_include_directories(gte INTERFACE
+  $<BUILD_INTERFACE:${gte_SOURCE_DIR}>
+  $<INSTALL_INTERFACE:include>
+)
+
+# Deployment
+install ( DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/Mathematics DESTINATION ${CMAKE_INSTALL_INCLUDEDIR}/GeometricTools/GTE/Mathematics)
+
 #add_subdirectory(Applications)
 #add_subdirectory(Graphics)
-add_subdirectory(Mathematics)
+#add_subdirectory(Mathematics)
 #add_subdirectory(MathematicsGPU)
 
 #option(BUILD_SAMPLES "Build Samples" OFF)

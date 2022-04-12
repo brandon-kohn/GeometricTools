@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Vector.h>
+#include <GTE/Mathematics/Vector.h>
 
 // The box is aligned with the standard coordinate axes, which allows us to
 // represent it using minimum and maximum values along each axis.  Some

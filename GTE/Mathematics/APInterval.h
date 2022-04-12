@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Logger.h>
-#include <GeometricTools/GTE/Mathematics/ArbitraryPrecision.h>
+#include <GTE/Mathematics/Logger.h>
+#include <GTE/Mathematics/ArbitraryPrecision.h>
 
 // The interval [e0,e1] must satisfy e0 <= e1. Expose this define to trap
 // invalid construction where e0 > e1.

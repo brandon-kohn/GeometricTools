@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Delaunay2.h>
-#include <GeometricTools/GTE/Mathematics/ContScribeCircle2.h>
-#include <GeometricTools/GTE/Mathematics/DistPointAlignedBox.h>
+#include <GTE/Mathematics/Delaunay2.h>
+#include <GTE/Mathematics/ContScribeCircle2.h>
+#include <GTE/Mathematics/DistPointAlignedBox.h>
 
 // Quadratic interpolation of a network of triangles whose vertices are of
 // the form (x,y,f(x,y)).  This code is an implementation of the algorithm

@@ -7,10 +7,10 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Logger.h>
-#include <GeometricTools/GTE/Mathematics/ContCircle2.h>
-#include <GeometricTools/GTE/Mathematics/Hypersphere.h>
-#include <GeometricTools/GTE/Mathematics/LinearSystem.h>
+#include <GTE/Mathematics/Logger.h>
+#include <GTE/Mathematics/ContCircle2.h>
+#include <GTE/Mathematics/Hypersphere.h>
+#include <GTE/Mathematics/LinearSystem.h>
 #include <functional>
 #include <random>
 

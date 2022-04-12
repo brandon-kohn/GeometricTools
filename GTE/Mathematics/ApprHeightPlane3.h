@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/ApprQuery.h>
-#include <GeometricTools/GTE/Mathematics/Vector3.h>
+#include <GTE/Mathematics/ApprQuery.h>
+#include <GTE/Mathematics/Vector3.h>
 
 // Least-squares fit of a plane to height data (x,y,f(x,y)). The plane is of
 // the form (z - zAvr) = a*(x - xAvr) + b*(y - yAvr), where (xAvr,yAvr,zAvr)

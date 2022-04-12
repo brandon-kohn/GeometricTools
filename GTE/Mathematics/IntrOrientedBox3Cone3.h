@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Cone.h>
-#include <GeometricTools/GTE/Mathematics/OrientedBox.h>
-#include <GeometricTools/GTE/Mathematics/IntrAlignedBox3Cone3.h>
+#include <GTE/Mathematics/Cone.h>
+#include <GTE/Mathematics/OrientedBox.h>
+#include <GTE/Mathematics/IntrAlignedBox3Cone3.h>
 
 // Test for intersection of a box and a cone.  The cone can be infinite
 //   0 <= minHeight < maxHeight = std::numeric_limits<Real>::max()

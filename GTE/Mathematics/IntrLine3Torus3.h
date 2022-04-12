@@ -7,11 +7,11 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/FIQuery.h>
-#include <GeometricTools/GTE/Mathematics/Line.h>
-#include <GeometricTools/GTE/Mathematics/Torus3.h>
-#include <GeometricTools/GTE/Mathematics/Polynomial1.h>
-#include <GeometricTools/GTE/Mathematics/RootsPolynomial.h>
+#include <GTE/Mathematics/FIQuery.h>
+#include <GTE/Mathematics/Line.h>
+#include <GTE/Mathematics/Torus3.h>
+#include <GTE/Mathematics/Polynomial1.h>
+#include <GTE/Mathematics/RootsPolynomial.h>
 
 // The line is parameterized by L(t) = P + t * D, where P is a point on the
 // line and D is a nonzero direction vector that is not necessarily unit

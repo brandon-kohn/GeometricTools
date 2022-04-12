@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Logger.h>
-#include <GeometricTools/GTE/Mathematics/ContSphere3.h>
-#include <GeometricTools/GTE/Mathematics/LinearSystem.h>
+#include <GTE/Mathematics/Logger.h>
+#include <GTE/Mathematics/ContSphere3.h>
+#include <GTE/Mathematics/LinearSystem.h>
 #include <functional>
 #include <random>
 

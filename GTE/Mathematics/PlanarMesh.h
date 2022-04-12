@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/ContPointInPolygon2.h>
-#include <GeometricTools/GTE/Mathematics/ETManifoldMesh.h>
-#include <GeometricTools/GTE/Mathematics/PrimalQuery2.h>
+#include <GTE/Mathematics/ContPointInPolygon2.h>
+#include <GTE/Mathematics/ETManifoldMesh.h>
+#include <GTE/Mathematics/PrimalQuery2.h>
 #include <set>
 
 // The planar mesh class is convenient for many applications involving

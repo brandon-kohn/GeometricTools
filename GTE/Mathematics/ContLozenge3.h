@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/ApprGaussian3.h>
-#include <GeometricTools/GTE/Mathematics/DistPointRectangle.h>
-#include <GeometricTools/GTE/Mathematics/Lozenge3.h>
+#include <GTE/Mathematics/ApprGaussian3.h>
+#include <GTE/Mathematics/DistPointRectangle.h>
+#include <GTE/Mathematics/Lozenge3.h>
 
 namespace gte
 {

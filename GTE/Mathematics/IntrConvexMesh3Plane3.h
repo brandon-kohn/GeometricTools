@@ -7,12 +7,12 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/FIQuery.h>
-#include <GeometricTools/GTE/Mathematics/ArbitraryPrecision.h>
-#include <GeometricTools/GTE/Mathematics/ConvexMesh3.h>
-#include <GeometricTools/GTE/Mathematics/EdgeKey.h>
-#include <GeometricTools/GTE/Mathematics/Hyperplane.h>
-#include <GeometricTools/GTE/Mathematics/UniqueVerticesSimplices.h>
+#include <GTE/Mathematics/FIQuery.h>
+#include <GTE/Mathematics/ArbitraryPrecision.h>
+#include <GTE/Mathematics/ConvexMesh3.h>
+#include <GTE/Mathematics/EdgeKey.h>
+#include <GTE/Mathematics/Hyperplane.h>
+#include <GTE/Mathematics/UniqueVerticesSimplices.h>
 
 namespace gte
 {

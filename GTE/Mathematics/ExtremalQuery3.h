@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Polyhedron3.h>
+#include <GTE/Mathematics/Polyhedron3.h>
 
 namespace gte
 {

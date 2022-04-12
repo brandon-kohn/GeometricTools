@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/DistLineSegment.h>
-#include <GeometricTools/GTE/Mathematics/Rectangle.h>
-#include <GeometricTools/GTE/Mathematics/Vector3.h>
+#include <GTE/Mathematics/DistLineSegment.h>
+#include <GTE/Mathematics/Rectangle.h>
+#include <GTE/Mathematics/Vector3.h>
 
 // Compute the distance between a line and a solid rectangle in 3D.
 // 

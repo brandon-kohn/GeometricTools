@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Matrix.h>
-#include <GeometricTools/GTE/Mathematics/SingularValueDecomposition.h>
-#include <GeometricTools/GTE/Mathematics/Vector3.h>
+#include <GTE/Mathematics/Matrix.h>
+#include <GTE/Mathematics/SingularValueDecomposition.h>
+#include <GTE/Mathematics/Vector3.h>
 
 // The hyperplane is represented as Dot(U, X - P) = 0 where U is a unit-length
 // normal vector, P is the hyperplane origin, and X is any point on the

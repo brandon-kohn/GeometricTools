@@ -7,10 +7,10 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Logger.h>
-#include <GeometricTools/GTE/Mathematics/Array2.h>
-#include <GeometricTools/GTE/Mathematics/Math.h>
-#include <GeometricTools/GTE/Mathematics/TriangleKey.h>
+#include <GTE/Mathematics/Logger.h>
+#include <GTE/Mathematics/Array2.h>
+#include <GTE/Mathematics/Math.h>
+#include <GTE/Mathematics/TriangleKey.h>
 #include <map>
 #include <memory>
 #include <ostream>

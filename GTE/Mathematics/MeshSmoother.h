@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Logger.h>
-#include <GeometricTools/GTE/Mathematics/Vector3.h>
+#include <GTE/Mathematics/Logger.h>
+#include <GTE/Mathematics/Vector3.h>
 #include <vector>
 
 namespace gte

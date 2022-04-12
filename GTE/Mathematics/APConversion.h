@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/ArbitraryPrecision.h>
-#include <GeometricTools/GTE/Mathematics/QFNumber.h>
+#include <GTE/Mathematics/ArbitraryPrecision.h>
+#include <GTE/Mathematics/QFNumber.h>
 
 // The conversion functions here are used to obtain arbitrary-precision
 // approximations to rational numbers and to quadratic field numbers.

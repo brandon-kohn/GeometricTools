@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Vector.h>
+#include <GTE/Mathematics/Vector.h>
 
 // A box has center C, axis directions U[i], and extents e[i].  The set
 // {U[0],...,U[N-1]} is orthonormal, which means the vectors are

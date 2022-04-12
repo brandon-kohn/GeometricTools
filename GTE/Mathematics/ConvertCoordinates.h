@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Matrix.h>
-#include <GeometricTools/GTE/Mathematics/GaussianElimination.h>
+#include <GTE/Mathematics/Matrix.h>
+#include <GTE/Mathematics/GaussianElimination.h>
 
 // Convert points and transformations between two coordinate systems.
 // The mathematics involves a change of basis.  See the document

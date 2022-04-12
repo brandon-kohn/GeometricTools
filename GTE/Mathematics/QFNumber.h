@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Logger.h>
+#include <GTE/Mathematics/Logger.h>
 
 // Class QFNumber is an implementation for quadratic fields with N >= 1
 // square root terms. The theory and details are provided in

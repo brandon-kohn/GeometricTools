@@ -7,10 +7,10 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/ApprQuery.h>
-#include <GeometricTools/GTE/Mathematics/OrientedBox.h>
-#include <GeometricTools/GTE/Mathematics/SymmetricEigensolver2x2.h>
-#include <GeometricTools/GTE/Mathematics/Vector2.h>
+#include <GTE/Mathematics/ApprQuery.h>
+#include <GTE/Mathematics/OrientedBox.h>
+#include <GTE/Mathematics/SymmetricEigensolver2x2.h>
+#include <GTE/Mathematics/Vector2.h>
 
 // Fit points with a Gaussian distribution. The center is the mean of the
 // points, the axes are the eigenvectors of the covariance matrix and the

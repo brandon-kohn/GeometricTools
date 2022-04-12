@@ -40,7 +40,7 @@
 // In the Geometric Tools distribution, the class is used for polygon Boolean
 // operations (D = 2) and for compactifying triangle meshes (D = 3).
 
-#include <GeometricTools/GTE/Mathematics/Logger.h>
+#include <GTE/Mathematics/Logger.h>
 #include <array>
 #include <map>
 #include <set>

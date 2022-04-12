@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/DistPointOrientedBox.h>
-#include <GeometricTools/GTE/Mathematics/IntrAlignedBox3Sphere3.h>
+#include <GTE/Mathematics/DistPointOrientedBox.h>
+#include <GTE/Mathematics/IntrAlignedBox3Sphere3.h>
 
 namespace gte
 {

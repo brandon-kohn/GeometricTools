@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/ConvexHull2.h>
-#include <GeometricTools/GTE/Mathematics/OrientedBox.h>
-#include <GeometricTools/GTE/Mathematics/RotatingCalipers.h>
+#include <GTE/Mathematics/ConvexHull2.h>
+#include <GTE/Mathematics/OrientedBox.h>
+#include <GTE/Mathematics/RotatingCalipers.h>
 #include <functional>
 
 // The width for a set of 2D points is the minimum distance between pairs

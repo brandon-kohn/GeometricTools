@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/DCPQuery.h>
-#include <GeometricTools/GTE/Mathematics/LCPSolver.h>
-#include <GeometricTools/GTE/Mathematics/ConvexPolyhedron3.h>
+#include <GTE/Mathematics/DCPQuery.h>
+#include <GTE/Mathematics/LCPSolver.h>
+#include <GTE/Mathematics/ConvexPolyhedron3.h>
 #include <memory>
 
 // Compute the distance between a point and a convex polyhedron in 3D.  The

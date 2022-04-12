@@ -7,10 +7,10 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Logger.h>
-#include <GeometricTools/GTE/Mathematics/Matrix3x3.h>
-#include <GeometricTools/GTE/Mathematics/Matrix4x4.h>
-#include <GeometricTools/GTE/Mathematics/Rotation.h>
+#include <GTE/Mathematics/Logger.h>
+#include <GTE/Mathematics/Matrix3x3.h>
+#include <GTE/Mathematics/Matrix4x4.h>
+#include <GTE/Mathematics/Rotation.h>
 
 // Transforms when GTE_USE_MAT_VEC is defined in the preprocessor symbols.
 //

@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/IntrPlane3Plane3.h>
-#include <GeometricTools/GTE/Mathematics/Circle3.h>
+#include <GTE/Mathematics/IntrPlane3Plane3.h>
+#include <GTE/Mathematics/Circle3.h>
 
 namespace gte
 {

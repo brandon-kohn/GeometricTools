@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/DistLine2AlignedBox2.h>
-#include <GeometricTools/GTE/Mathematics/DistPointAlignedBox.h>
-#include <GeometricTools/GTE/Mathematics/Ray.h>
+#include <GTE/Mathematics/DistLine2AlignedBox2.h>
+#include <GTE/Mathematics/DistPointAlignedBox.h>
+#include <GTE/Mathematics/Ray.h>
 
 // Compute the distance between a ray and a solid aligned box in 2D.
 // 

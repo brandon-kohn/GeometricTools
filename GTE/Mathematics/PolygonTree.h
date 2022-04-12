@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Vector2.h>
+#include <GTE/Mathematics/Vector2.h>
 #include <cstdint>
 #include <limits>
 #include <memory>

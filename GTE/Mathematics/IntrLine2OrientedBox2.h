@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/IntrLine2AlignedBox2.h>
-#include <GeometricTools/GTE/Mathematics/OrientedBox.h>
+#include <GTE/Mathematics/IntrLine2AlignedBox2.h>
+#include <GTE/Mathematics/OrientedBox.h>
 
 // The queries consider the box to be a solid.
 //

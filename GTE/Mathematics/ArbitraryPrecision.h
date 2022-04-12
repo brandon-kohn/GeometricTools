@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/UIntegerALU32.h>
-#include <GeometricTools/GTE/Mathematics/UIntegerAP32.h>
-#include <GeometricTools/GTE/Mathematics/UIntegerFP32.h>
-#include <GeometricTools/GTE/Mathematics/BSNumber.h>
-#include <GeometricTools/GTE/Mathematics/BSRational.h>
-#include <GeometricTools/GTE/Mathematics/BSPrecision.h>
+#include <GTE/Mathematics/UIntegerALU32.h>
+#include <GTE/Mathematics/UIntegerAP32.h>
+#include <GTE/Mathematics/UIntegerFP32.h>
+#include <GTE/Mathematics/BSNumber.h>
+#include <GTE/Mathematics/BSRational.h>
+#include <GTE/Mathematics/BSPrecision.h>

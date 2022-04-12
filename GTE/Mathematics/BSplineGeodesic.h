@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/RiemannianGeodesic.h>
-#include <GeometricTools/GTE/Mathematics/BSplineSurface.h>
+#include <GTE/Mathematics/RiemannianGeodesic.h>
+#include <GTE/Mathematics/BSplineSurface.h>
 
 namespace gte
 {

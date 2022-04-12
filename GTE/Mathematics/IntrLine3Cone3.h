@@ -7,11 +7,11 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Vector3.h>
-#include <GeometricTools/GTE/Mathematics/Cone.h>
-#include <GeometricTools/GTE/Mathematics/Line.h>
-#include <GeometricTools/GTE/Mathematics/QFNumber.h>
-#include <GeometricTools/GTE/Mathematics/IntrIntervals.h>
+#include <GTE/Mathematics/Vector3.h>
+#include <GTE/Mathematics/Cone.h>
+#include <GTE/Mathematics/Line.h>
+#include <GTE/Mathematics/QFNumber.h>
+#include <GTE/Mathematics/IntrIntervals.h>
 
 // The queries consider the cone to be single sided and solid.  The
 // cone height range is [hmin,hmax].  The cone can be infinite where

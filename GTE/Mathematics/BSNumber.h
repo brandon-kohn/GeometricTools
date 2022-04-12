@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/BitHacks.h>
-#include <GeometricTools/GTE/Mathematics/Math.h>
-#include <GeometricTools/GTE/Mathematics/IEEEBinary.h>
+#include <GTE/Mathematics/BitHacks.h>
+#include <GTE/Mathematics/Math.h>
+#include <GTE/Mathematics/IEEEBinary.h>
 #include <istream>
 #include <ostream>
 

@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Logger.h>
+#include <GTE/Mathematics/Logger.h>
 #include <array>
 #include <cstdint>
 #include <map>

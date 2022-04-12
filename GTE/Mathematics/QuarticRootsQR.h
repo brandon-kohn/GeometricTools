@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/CubicRootsQR.h>
+#include <GTE/Mathematics/CubicRootsQR.h>
 
 // An implementation of the QR algorithm described in "Matrix Computations,
 // 2nd edition" by G. H. Golub and C. F. Van Loan, The Johns Hopkins

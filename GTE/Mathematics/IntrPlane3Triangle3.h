@@ -7,11 +7,11 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/FIQuery.h>
-#include <GeometricTools/GTE/Mathematics/TIQuery.h>
-#include <GeometricTools/GTE/Mathematics/Hyperplane.h>
-#include <GeometricTools/GTE/Mathematics/Triangle.h>
-#include <GeometricTools/GTE/Mathematics/Vector3.h>
+#include <GTE/Mathematics/FIQuery.h>
+#include <GTE/Mathematics/TIQuery.h>
+#include <GTE/Mathematics/Hyperplane.h>
+#include <GTE/Mathematics/Triangle.h>
+#include <GTE/Mathematics/Vector3.h>
 
 namespace gte
 {

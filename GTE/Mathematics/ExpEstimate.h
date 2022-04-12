@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Exp2Estimate.h>
+#include <GTE/Mathematics/Exp2Estimate.h>
 
 // Minimax polynomial approximations to 2^x.  The polynomial p(x) of
 // degree D minimizes the quantity maximum{|2^x - p(x)| : x in [0,1]}

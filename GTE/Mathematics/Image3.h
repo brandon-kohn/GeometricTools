@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Logger.h>
-#include <GeometricTools/GTE/Mathematics/Image.h>
+#include <GTE/Mathematics/Logger.h>
+#include <GTE/Mathematics/Image.h>
 #include <array>
 #include <string>
 

@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Hyperplane.h>
-#include <GeometricTools/GTE/Mathematics/Vector3.h>
+#include <GTE/Mathematics/Hyperplane.h>
+#include <GTE/Mathematics/Vector3.h>
 
 // The tetrahedron is represented as an array of four vertices, V[i] for
 // 0 <= i <= 3. The vertices are ordered so that the triangular faces are

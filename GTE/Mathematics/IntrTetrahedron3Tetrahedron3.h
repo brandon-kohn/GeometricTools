@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/TIQuery.h>
-#include <GeometricTools/GTE/Mathematics/Tetrahedron3.h>
+#include <GTE/Mathematics/TIQuery.h>
+#include <GTE/Mathematics/Tetrahedron3.h>
 
 // The queries consider the tetrahedron to be a solid.
 //

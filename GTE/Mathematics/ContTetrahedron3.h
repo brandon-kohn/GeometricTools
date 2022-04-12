@@ -5,7 +5,7 @@
 // https://www.geometrictools.com/License/Boost/LICENSE_1_0.txt
 // Version: 6.1.2022.01.31
 
-#include <GeometricTools/GTE/Mathematics/Tetrahedron3.h>
+#include <GTE/Mathematics/Tetrahedron3.h>
 
 namespace gte
 {

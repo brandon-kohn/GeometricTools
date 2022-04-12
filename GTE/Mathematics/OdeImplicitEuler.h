@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/GMatrix.h>
-#include <GeometricTools/GTE/Mathematics/OdeSolver.h>
+#include <GTE/Mathematics/GMatrix.h>
+#include <GTE/Mathematics/OdeSolver.h>
 
 // The TVector template parameter allows you to create solvers with
 // Vector<N,Real> when the dimension N is known at compile time or

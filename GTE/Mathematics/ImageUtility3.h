@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Image3.h>
+#include <GTE/Mathematics/Image3.h>
 #include <functional>
 
 // Image utilities for Image3<int32_t> objects.  TODO: Extend this to a template

@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Math.h>
+#include <GTE/Mathematics/Math.h>
 
 // Minimax polynomial approximations to 1/sqrt(x).  The polynomial p(x) of
 // degree D minimizes the quantity maximum{|1/sqrt(x) - p(x)| : x in [1,2]}

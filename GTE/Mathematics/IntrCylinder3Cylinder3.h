@@ -11,11 +11,11 @@
 // separating axes. The algorithm is described in the document
 // https://www.geometrictools.com/Documentation/IntersectionOfCylinders.pdf
 
-#include <GeometricTools/GTE/Mathematics/TIQuery.h>
-#include <GeometricTools/GTE/Mathematics/Cylinder3.h>
-#include <GeometricTools/GTE/Mathematics/Vector3.h>
-#include <GeometricTools/GTE/Mathematics/RootsBisection.h>
-#include <GeometricTools/GTE/Mathematics/Minimize1.h>
+#include <GTE/Mathematics/TIQuery.h>
+#include <GTE/Mathematics/Cylinder3.h>
+#include <GTE/Mathematics/Vector3.h>
+#include <GTE/Mathematics/RootsBisection.h>
+#include <GTE/Mathematics/Minimize1.h>
 #include <vector>
 
 namespace gte

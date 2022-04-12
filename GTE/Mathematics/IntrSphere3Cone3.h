@@ -7,11 +7,11 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/FIQuery.h>
-#include <GeometricTools/GTE/Mathematics/TIQuery.h>
-#include <GeometricTools/GTE/Mathematics/Cone.h>
-#include <GeometricTools/GTE/Mathematics/Hypersphere.h>
-#include <GeometricTools/GTE/Mathematics/Vector3.h>
+#include <GTE/Mathematics/FIQuery.h>
+#include <GTE/Mathematics/TIQuery.h>
+#include <GTE/Mathematics/Cone.h>
+#include <GTE/Mathematics/Hypersphere.h>
+#include <GTE/Mathematics/Vector3.h>
 
 // The test-intersection query is based on the document
 // https://www.geometrictools.com/Documentation/IntersectionSphereCone.pdf

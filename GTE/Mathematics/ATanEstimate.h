@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Math.h>
+#include <GTE/Mathematics/Math.h>
 
 // Minimax polynomial approximations to atan(x).  The polynomial p(x) of
 // degree D has only odd-power terms, is required to have linear term x,

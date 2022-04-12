@@ -7,10 +7,10 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Matrix2x2.h>
-#include <GeometricTools/GTE/Mathematics/Matrix3x3.h>
-#include <GeometricTools/GTE/Mathematics/Matrix4x4.h>
-#include <GeometricTools/GTE/Mathematics/GaussianElimination.h>
+#include <GTE/Mathematics/Matrix2x2.h>
+#include <GTE/Mathematics/Matrix3x3.h>
+#include <GTE/Mathematics/Matrix4x4.h>
+#include <GTE/Mathematics/GaussianElimination.h>
 #include <map>
 
 // Solve linear systems of equations where the matrix A is NxN.  The return

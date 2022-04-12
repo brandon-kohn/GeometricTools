@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/IntrSegment2Segment2.h>
+#include <GTE/Mathematics/IntrSegment2Segment2.h>
 #include <set>
 #include <vector>
 

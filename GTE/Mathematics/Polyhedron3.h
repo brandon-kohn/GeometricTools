@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Vector3.h>
+#include <GTE/Mathematics/Vector3.h>
 #include <memory>
 #include <set>
 #include <vector>

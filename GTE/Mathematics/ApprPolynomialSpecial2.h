@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/ApprQuery.h>
-#include <GeometricTools/GTE/Mathematics/GMatrix.h>
+#include <GTE/Mathematics/ApprQuery.h>
+#include <GTE/Mathematics/GMatrix.h>
 #include <array>
 
 // Fit the data with a polynomial of the form

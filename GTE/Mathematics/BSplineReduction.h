@@ -7,11 +7,11 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/BandedMatrix.h>
-#include <GeometricTools/GTE/Mathematics/GMatrix.h>
-#include <GeometricTools/GTE/Mathematics/Integration.h>
-#include <GeometricTools/GTE/Mathematics/IntrIntervals.h>
-#include <GeometricTools/GTE/Mathematics/Vector.h>
+#include <GTE/Mathematics/BandedMatrix.h>
+#include <GTE/Mathematics/GMatrix.h>
+#include <GTE/Mathematics/Integration.h>
+#include <GTE/Mathematics/IntrIntervals.h>
+#include <GTE/Mathematics/Vector.h>
 
 // The BSplineReduction class is an implementation of the algorithm in
 // https://www.geometrictools.com/Documentation/BSplineReduction.pdf

@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/DCPQuery.h>
-#include <GeometricTools/GTE/Mathematics/Line.h>
-#include <GeometricTools/GTE/Mathematics/Segment.h>
+#include <GTE/Mathematics/DCPQuery.h>
+#include <GTE/Mathematics/Line.h>
+#include <GTE/Mathematics/Segment.h>
 
 // Compute the distance between a line and a segment in nD.
 // 

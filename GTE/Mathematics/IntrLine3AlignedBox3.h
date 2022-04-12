@@ -7,11 +7,11 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/FIQuery.h>
-#include <GeometricTools/GTE/Mathematics/TIQuery.h>
-#include <GeometricTools/GTE/Mathematics/AlignedBox.h>
-#include <GeometricTools/GTE/Mathematics/Line.h>
-#include <GeometricTools/GTE/Mathematics/Vector3.h>
+#include <GTE/Mathematics/FIQuery.h>
+#include <GTE/Mathematics/TIQuery.h>
+#include <GTE/Mathematics/AlignedBox.h>
+#include <GTE/Mathematics/Line.h>
+#include <GTE/Mathematics/Vector3.h>
 
 // The test-intersection queries use the method of separating axes.
 // https://www.geometrictools.com/Documentation/MethodOfSeparatingAxes.pdf

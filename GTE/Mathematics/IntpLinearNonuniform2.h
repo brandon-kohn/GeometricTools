@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Logger.h>
-#include <GeometricTools/GTE/Mathematics/Vector2.h>
+#include <GTE/Mathematics/Logger.h>
+#include <GTE/Mathematics/Vector2.h>
 
 // Linear interpolation of a network of triangles whose vertices are of the
 // form (x,y,f(x,y)).  The function samples are F[i] and represent

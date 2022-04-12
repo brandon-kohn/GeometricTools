@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Vector.h>
+#include <GTE/Mathematics/Vector.h>
 
 // Points are R(s0,s1) = C + s0*A0 + s1*A1, where C is the center of the
 // rectangle and A0 and A1 are unit-length and perpendicular axes.  The

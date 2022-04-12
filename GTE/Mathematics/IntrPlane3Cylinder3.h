@@ -20,12 +20,12 @@
 // by setting h = -1. Read the aforementioned PDF for details about this
 // choice.
 
-#include <GeometricTools/GTE/Mathematics/Cylinder3.h>
-#include <GeometricTools/GTE/Mathematics/Ellipse3.h>
-#include <GeometricTools/GTE/Mathematics/Hyperellipsoid.h>
-#include <GeometricTools/GTE/Mathematics/Matrix.h>
-#include <GeometricTools/GTE/Mathematics/Matrix3x3.h>
-#include <GeometricTools/GTE/Mathematics/IntrPlane3Plane3.h>
+#include <GTE/Mathematics/Cylinder3.h>
+#include <GTE/Mathematics/Ellipse3.h>
+#include <GTE/Mathematics/Hyperellipsoid.h>
+#include <GTE/Mathematics/Matrix.h>
+#include <GTE/Mathematics/Matrix3x3.h>
+#include <GTE/Mathematics/IntrPlane3Plane3.h>
 
 namespace gte
 {

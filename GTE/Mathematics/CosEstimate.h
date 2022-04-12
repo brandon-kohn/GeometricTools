@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Math.h>
+#include <GTE/Mathematics/Math.h>
 
 // Minimax polynomial approximations to cos(x).  The polynomial p(x) of
 // degree D has only even-power terms, is required to have constant term 1,

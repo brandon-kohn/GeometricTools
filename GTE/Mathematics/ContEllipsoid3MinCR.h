@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Matrix3x3.h>
+#include <GTE/Mathematics/Matrix3x3.h>
 #include <random>
 
 // Compute the minimum-volume ellipsoid, (X-C)^T R D R^T (X-C) = 1, given the

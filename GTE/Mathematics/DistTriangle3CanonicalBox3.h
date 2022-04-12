@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/DistPlane3CanonicalBox3.h>
-#include <GeometricTools/GTE/Mathematics/DistSegment3CanonicalBox3.h>
-#include <GeometricTools/GTE/Mathematics/Triangle.h>
+#include <GTE/Mathematics/DistPlane3CanonicalBox3.h>
+#include <GTE/Mathematics/DistSegment3CanonicalBox3.h>
+#include <GTE/Mathematics/Triangle.h>
 
 // Compute the distance between a solid triangle and a solid canonical box
 // in 3D.

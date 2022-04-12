@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Math.h>
+#include <GTE/Mathematics/Math.h>
 
 // Approximations to acos(x) of the form f(x) = sqrt(1-x)*p(x)
 // where the polynomial p(x) of degree D minimizes the quantity

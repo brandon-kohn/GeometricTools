@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Matrix3x3.h>
-#include <GeometricTools/GTE/Mathematics/Rotation.h>
-#include <GeometricTools/GTE/Mathematics/LinearSystem.h>
+#include <GTE/Mathematics/Matrix3x3.h>
+#include <GTE/Mathematics/Rotation.h>
+#include <GTE/Mathematics/LinearSystem.h>
 #include <functional>
 #include <memory>
 

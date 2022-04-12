@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Logger.h>
-#include <GeometricTools/GTE/Mathematics/Math.h>
-#include <GeometricTools/GTE/Mathematics/Polynomial1.h>
+#include <GTE/Mathematics/Logger.h>
+#include <GTE/Mathematics/Math.h>
+#include <GTE/Mathematics/Polynomial1.h>
 #include <functional>
 
 namespace gte

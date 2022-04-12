@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Logger.h>
+#include <GTE/Mathematics/Logger.h>
 #include <algorithm>
 #include <array>
 #include <vector>

@@ -7,11 +7,11 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/DCPQuery.h>
-#include <GeometricTools/GTE/Mathematics/Circle3.h>
-#include <GeometricTools/GTE/Mathematics/Line.h>
-#include <GeometricTools/GTE/Mathematics/RootsBisection.h>
-#include <GeometricTools/GTE/Mathematics/RootsPolynomial.h>
+#include <GTE/Mathematics/DCPQuery.h>
+#include <GTE/Mathematics/Circle3.h>
+#include <GTE/Mathematics/Line.h>
+#include <GTE/Mathematics/RootsBisection.h>
+#include <GTE/Mathematics/RootsPolynomial.h>
 
 // The 3D line-circle distance algorithm is described in
 // https://www.geometrictools.com/Documentation/DistanceToCircle3.pdf

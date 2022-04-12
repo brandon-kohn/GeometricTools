@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/PdeFilter3.h>
-#include <GeometricTools/GTE/Mathematics/Math.h>
+#include <GTE/Mathematics/PdeFilter3.h>
+#include <GTE/Mathematics/Math.h>
 
 namespace gte
 {

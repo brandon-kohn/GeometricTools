@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/ETManifoldMesh.h>
+#include <GTE/Mathematics/ETManifoldMesh.h>
 #include <map>
 
 // The VETManifoldMesh class represents an edge-triangle manifold mesh

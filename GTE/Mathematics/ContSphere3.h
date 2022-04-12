@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Hypersphere.h>
-#include <GeometricTools/GTE/Mathematics/Vector3.h>
+#include <GTE/Mathematics/Hypersphere.h>
+#include <GTE/Mathematics/Vector3.h>
 #include <vector>
 
 namespace gte

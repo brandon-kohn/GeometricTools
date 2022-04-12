@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/CholeskyDecomposition.h>
+#include <GTE/Mathematics/CholeskyDecomposition.h>
 #include <functional>
 
 // Let F(p) = (F_{0}(p), F_{1}(p), ..., F_{n-1}(p)) be a vector-valued

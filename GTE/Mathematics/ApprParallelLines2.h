@@ -11,9 +11,9 @@
 // clustered on the lines. The algorithm is described in
 //   https://www.geometrictools.com/Documentation/FitParallelLinesToPoints2D.pdf
 
-#include <GeometricTools/GTE/Mathematics/Polynomial1.h>
-#include <GeometricTools/GTE/Mathematics/RootsPolynomial.h>
-#include <GeometricTools/GTE/Mathematics/Vector2.h>
+#include <GTE/Mathematics/Polynomial1.h>
+#include <GTE/Mathematics/RootsPolynomial.h>
+#include <GTE/Mathematics/Vector2.h>
 
 namespace gte
 {

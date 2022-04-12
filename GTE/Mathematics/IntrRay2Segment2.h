@@ -7,10 +7,10 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/IntrIntervals.h>
-#include <GeometricTools/GTE/Mathematics/IntrLine2Line2.h>
-#include <GeometricTools/GTE/Mathematics/Ray.h>
-#include <GeometricTools/GTE/Mathematics/Segment.h>
+#include <GTE/Mathematics/IntrIntervals.h>
+#include <GTE/Mathematics/IntrLine2Line2.h>
+#include <GTE/Mathematics/Ray.h>
+#include <GTE/Mathematics/Segment.h>
 
 namespace gte
 {

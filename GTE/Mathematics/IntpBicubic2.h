@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Logger.h>
+#include <GTE/Mathematics/Logger.h>
 #include <array>
 
 // The interpolator is for uniformly spaced (x,y)-values.  The input samples

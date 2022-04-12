@@ -7,10 +7,10 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/IntrIntervals.h>
-#include <GeometricTools/GTE/Mathematics/IntrLine2AlignedBox2.h>
-#include <GeometricTools/GTE/Mathematics/Ray.h>
-#include <GeometricTools/GTE/Mathematics/Vector2.h>
+#include <GTE/Mathematics/IntrIntervals.h>
+#include <GTE/Mathematics/IntrLine2AlignedBox2.h>
+#include <GTE/Mathematics/Ray.h>
+#include <GTE/Mathematics/Vector2.h>
 
 // The queries consider the box to be a solid.
 //

@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Vector.h>
-#include <GeometricTools/GTE/Mathematics/GaussianElimination.h>
+#include <GTE/Mathematics/Vector.h>
+#include <GTE/Mathematics/GaussianElimination.h>
 
 namespace gte
 {

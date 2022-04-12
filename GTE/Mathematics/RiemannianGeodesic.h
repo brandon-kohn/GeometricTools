@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/GMatrix.h>
-#include <GeometricTools/GTE/Mathematics/LinearSystem.h>
+#include <GTE/Mathematics/GMatrix.h>
+#include <GTE/Mathematics/LinearSystem.h>
 #include <functional>
 
 // Computing geodesics on a surface is a differential geometric topic that

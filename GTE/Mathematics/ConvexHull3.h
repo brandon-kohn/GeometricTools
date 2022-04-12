@@ -31,10 +31,10 @@
 // if possible. If that test fails, rational arithmetic is used. For typical
 // datasets, the indeterminate sign from interval arithmetic happens rarely.
 
-#include <GeometricTools/GTE/Mathematics/ConvexHull2.h>
-#include <GeometricTools/GTE/Mathematics/SWInterval.h>
-#include <GeometricTools/GTE/Mathematics/Vector3.h>
-#include <GeometricTools/GTE/Mathematics/VETManifoldMesh.h>
+#include <GTE/Mathematics/ConvexHull2.h>
+#include <GTE/Mathematics/SWInterval.h>
+#include <GTE/Mathematics/Vector3.h>
+#include <GTE/Mathematics/VETManifoldMesh.h>
 #include <algorithm>
 #include <numeric>
 #include <queue>

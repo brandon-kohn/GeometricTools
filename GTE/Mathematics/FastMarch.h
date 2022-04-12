@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/MinHeap.h>
+#include <GTE/Mathematics/MinHeap.h>
 #include <limits>
 
 // The topic of fast marching methods are discussed in the book

@@ -23,8 +23,8 @@
 // general dimensions N. The UseConjugateGradient function uses conjugate
 // gradient minimization.
 
-#include <GeometricTools/GTE/Mathematics/DCPQuery.h>
-#include <GeometricTools/GTE/Mathematics/Triangle.h>
+#include <GTE/Mathematics/DCPQuery.h>
+#include <GTE/Mathematics/Triangle.h>
 
 namespace gte
 {

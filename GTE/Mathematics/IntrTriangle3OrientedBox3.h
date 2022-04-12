@@ -7,12 +7,12 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/FIQuery.h>
-#include <GeometricTools/GTE/Mathematics/TIQuery.h>
-#include <GeometricTools/GTE/Mathematics/IntrConvexPolygonHyperplane.h>
-#include <GeometricTools/GTE/Mathematics/Triangle.h>
-#include <GeometricTools/GTE/Mathematics/OrientedBox.h>
-#include <GeometricTools/GTE/Mathematics/Vector3.h>
+#include <GTE/Mathematics/FIQuery.h>
+#include <GTE/Mathematics/TIQuery.h>
+#include <GTE/Mathematics/IntrConvexPolygonHyperplane.h>
+#include <GTE/Mathematics/Triangle.h>
+#include <GTE/Mathematics/OrientedBox.h>
+#include <GTE/Mathematics/Vector3.h>
 
 // The test-intersection query is based on the document
 // https://www.geometrictools.com/Documentation/MethodOfSeparatingAxes.pdf

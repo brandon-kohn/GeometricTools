@@ -7,11 +7,11 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/ApprOrthogonalLine3.h>
-#include <GeometricTools/GTE/Mathematics/Capsule.h>
-#include <GeometricTools/GTE/Mathematics/DistPointLine.h>
-#include <GeometricTools/GTE/Mathematics/DistPointSegment.h>
-#include <GeometricTools/GTE/Mathematics/Hypersphere.h>
+#include <GTE/Mathematics/ApprOrthogonalLine3.h>
+#include <GTE/Mathematics/Capsule.h>
+#include <GTE/Mathematics/DistPointLine.h>
+#include <GTE/Mathematics/DistPointSegment.h>
+#include <GTE/Mathematics/Hypersphere.h>
 
 namespace gte
 {

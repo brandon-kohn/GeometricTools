@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Math.h>
-#include <GeometricTools/GTE/Mathematics/LexicoArray2.h>
+#include <GTE/Mathematics/Math.h>
+#include <GTE/Mathematics/LexicoArray2.h>
 #include <vector>
 
 namespace gte

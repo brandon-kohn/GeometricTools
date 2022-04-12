@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/ParametricCurve.h>
-#include <GeometricTools/GTE/Mathematics/Polynomial1.h>
+#include <GTE/Mathematics/ParametricCurve.h>
+#include <GTE/Mathematics/Polynomial1.h>
 
 namespace gte
 {

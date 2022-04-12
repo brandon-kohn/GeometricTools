@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Hypersphere.h>
-#include <GeometricTools/GTE/Mathematics/Vector2.h>
+#include <GTE/Mathematics/Hypersphere.h>
+#include <GTE/Mathematics/Vector2.h>
 
 // This file provides an implementation of the algorithm in Section 8.6 of the
 // book

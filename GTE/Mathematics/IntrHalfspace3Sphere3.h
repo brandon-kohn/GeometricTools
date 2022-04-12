@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/TIQuery.h>
-#include <GeometricTools/GTE/Mathematics/Halfspace.h>
-#include <GeometricTools/GTE/Mathematics/Hypersphere.h>
+#include <GTE/Mathematics/TIQuery.h>
+#include <GTE/Mathematics/Halfspace.h>
+#include <GTE/Mathematics/Hypersphere.h>
 
 // Queries for intersection of objects with halfspaces.  These are useful for
 // containment testing, object culling, and clipping.

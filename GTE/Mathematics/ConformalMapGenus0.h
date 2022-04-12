@@ -7,12 +7,12 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Logger.h>
-#include <GeometricTools/GTE/Mathematics/ETManifoldMesh.h>
-#include <GeometricTools/GTE/Mathematics/LinearSystem.h>
-#include <GeometricTools/GTE/Mathematics/Polynomial1.h>
-#include <GeometricTools/GTE/Mathematics/Vector2.h>
-#include <GeometricTools/GTE/Mathematics/Vector3.h>
+#include <GTE/Mathematics/Logger.h>
+#include <GTE/Mathematics/ETManifoldMesh.h>
+#include <GTE/Mathematics/LinearSystem.h>
+#include <GTE/Mathematics/Polynomial1.h>
+#include <GTE/Mathematics/Vector2.h>
+#include <GTE/Mathematics/Vector3.h>
 
 // Conformally map a 2-dimensional manifold mesh with the topology of a sphere
 // to a sphere.  The algorithm is an implementation of the one in the paper

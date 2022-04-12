@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/GaussNewtonMinimizer.h>
-#include <GeometricTools/GTE/Mathematics/LevenbergMarquardtMinimizer.h>
-#include <GeometricTools/GTE/Mathematics/RootsPolynomial.h>
+#include <GTE/Mathematics/GaussNewtonMinimizer.h>
+#include <GTE/Mathematics/LevenbergMarquardtMinimizer.h>
+#include <GTE/Mathematics/RootsPolynomial.h>
 
 // The cone vertex is V, the unit-length axis direction is U and the
 // cone angle is A in (0,pi/2).  The cone is defined algebraically by

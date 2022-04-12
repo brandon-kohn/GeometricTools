@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/NURBSSurface.h>
-#include <GeometricTools/GTE/Mathematics/Vector3.h>
+#include <GTE/Mathematics/NURBSSurface.h>
+#include <GTE/Mathematics/Vector3.h>
 #include <functional>
 
 // The algorithm for representing a circle as a NURBS curve or a sphere as a

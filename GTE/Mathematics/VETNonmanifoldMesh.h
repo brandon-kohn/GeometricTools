@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/SharedPtrCompare.h>
-#include <GeometricTools/GTE/Mathematics/ETNonmanifoldMesh.h>
+#include <GTE/Mathematics/SharedPtrCompare.h>
+#include <GTE/Mathematics/ETNonmanifoldMesh.h>
 
 // The VETNonmanifoldMesh class represents an edge-triangle nonmanifold mesh
 // but additionally stores vertex adjacency information.

@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/RootsBisection1.h>
+#include <GTE/Mathematics/RootsBisection1.h>
 
 // Estimate a root to continuous functions F(x,y) and G(x,y) define on a
 // rectangle [xMin,xMax]x[yMin,yMax]. The requirements are that for each

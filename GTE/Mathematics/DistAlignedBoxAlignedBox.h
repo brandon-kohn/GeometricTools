@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/DCPQuery.h>
-#include <GeometricTools/GTE/Mathematics/AlignedBox.h>
-#include <GeometricTools/GTE/Mathematics/IntrIntervals.h>
+#include <GTE/Mathematics/DCPQuery.h>
+#include <GTE/Mathematics/AlignedBox.h>
+#include <GTE/Mathematics/IntrIntervals.h>
 
 // Compute the distance between two solid aligned boxes in nD.
 // 

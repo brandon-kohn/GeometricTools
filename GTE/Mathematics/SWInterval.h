@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Logger.h>
-#include <GeometricTools/GTE/Mathematics/Math.h>
+#include <GTE/Mathematics/Logger.h>
+#include <GTE/Mathematics/Math.h>
 #include <array>
 
 // The SWInterval [e0,e1] must satisfy e0 <= e1. Expose this define to trap

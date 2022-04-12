@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/DistPointCanonicalBox.h>
-#include <GeometricTools/GTE/Mathematics/AlignedBox.h>
+#include <GTE/Mathematics/DistPointCanonicalBox.h>
+#include <GTE/Mathematics/AlignedBox.h>
 
 // Compute the distance from a point to a solid aligned box in nD.
 // 

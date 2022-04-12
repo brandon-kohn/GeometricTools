@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/RiemannianGeodesic.h>
+#include <GTE/Mathematics/RiemannianGeodesic.h>
 
 namespace gte
 {

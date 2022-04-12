@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/ApprGaussian2.h>
-#include <GeometricTools/GTE/Mathematics/Hyperellipsoid.h>
-#include <GeometricTools/GTE/Mathematics/Projection.h>
+#include <GTE/Mathematics/ApprGaussian2.h>
+#include <GTE/Mathematics/Hyperellipsoid.h>
+#include <GTE/Mathematics/Projection.h>
 
 namespace gte
 {

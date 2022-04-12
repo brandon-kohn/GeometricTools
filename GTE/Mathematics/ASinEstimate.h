@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/ACosEstimate.h>
+#include <GTE/Mathematics/ACosEstimate.h>
 
 // Approximations to asin(x) of the form f(x) = pi/2 - sqrt(1-x)*p(x)
 // where the polynomial p(x) of degree D minimizes the quantity

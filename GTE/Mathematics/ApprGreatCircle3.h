@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Matrix3x3.h>
-#include <GeometricTools/GTE/Mathematics/SymmetricEigensolver3x3.h>
+#include <GTE/Mathematics/Matrix3x3.h>
+#include <GTE/Mathematics/SymmetricEigensolver3x3.h>
 
 namespace gte
 {

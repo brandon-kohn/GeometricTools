@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Line.h>
+#include <GTE/Mathematics/Line.h>
 
 // The cylinder axis is a line. The origin of the cylinder is chosen to be
 // the line origin. The cylinder wall is at a distance R units from the axis.

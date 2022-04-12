@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/DistSegment3Rectangle3.h>
+#include <GTE/Mathematics/DistSegment3Rectangle3.h>
 
 // Compute the distance between two rectangles in 3D.
 //

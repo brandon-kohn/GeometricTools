@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/BasisFunction.h>
-#include <GeometricTools/GTE/Mathematics/ParametricSurface.h>
+#include <GTE/Mathematics/BasisFunction.h>
+#include <GTE/Mathematics/ParametricSurface.h>
 
 namespace gte
 {

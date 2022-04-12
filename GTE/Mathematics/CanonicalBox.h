@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Vector.h>
+#include <GTE/Mathematics/Vector.h>
 
 // A canonical box has center at the origin and is aligned with the standard
 // Euclidean basis vectors. It has E = (e[0],e[1],...,e[N-1]) with e[i] >= 0

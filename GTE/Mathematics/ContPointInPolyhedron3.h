@@ -7,10 +7,10 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Logger.h>
-#include <GeometricTools/GTE/Mathematics/ContPointInPolygon2.h>
-#include <GeometricTools/GTE/Mathematics/IntrRay3Plane3.h>
-#include <GeometricTools/GTE/Mathematics/IntrRay3Triangle3.h>
+#include <GTE/Mathematics/Logger.h>
+#include <GTE/Mathematics/ContPointInPolygon2.h>
+#include <GTE/Mathematics/IntrRay3Plane3.h>
+#include <GTE/Mathematics/IntrRay3Triangle3.h>
 #include <vector>
 
 // This class contains various implementations for point-in-polyhedron

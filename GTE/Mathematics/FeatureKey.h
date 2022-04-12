@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/HashCombine.h>
+#include <GTE/Mathematics/HashCombine.h>
 #include <algorithm>
 #include <array>
 

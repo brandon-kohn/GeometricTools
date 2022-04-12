@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Logger.h>
-#include <GeometricTools/GTE/Mathematics/UIntegerALU32.h>
+#include <GTE/Mathematics/Logger.h>
+#include <GTE/Mathematics/UIntegerALU32.h>
 #include <array>
 #include <istream>
 #include <ostream>
@@ -25,7 +25,7 @@
 //
 //#define GTE_COLLECT_UINTEGERFP32_STATISTICS
 #if defined(GTE_COLLECT_UINTEGERFP32_STATISTICS)
-#include <GeometricTools/GTE/Mathematics/AtomicMinMax.h>
+#include <GTE/Mathematics/AtomicMinMax.h>
 namespace gte
 {
     extern std::atomic<int32_t> gsUIntegerFP32MaxSize;

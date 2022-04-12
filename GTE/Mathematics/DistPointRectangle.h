@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/DCPQuery.h>
-#include <GeometricTools/GTE/Mathematics/Rectangle.h>
+#include <GTE/Mathematics/DCPQuery.h>
+#include <GTE/Mathematics/Rectangle.h>
 
 // Compute the distance between a point and a rectangle in nD.
 // 

@@ -7,11 +7,11 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Logger.h>
-#include <GeometricTools/GTE/Mathematics/DCPQuery.h>
-#include <GeometricTools/GTE/Mathematics/Circle3.h>
-#include <GeometricTools/GTE/Mathematics/Polynomial1.h>
-#include <GeometricTools/GTE/Mathematics/RootsPolynomial.h>
+#include <GTE/Mathematics/Logger.h>
+#include <GTE/Mathematics/DCPQuery.h>
+#include <GTE/Mathematics/Circle3.h>
+#include <GTE/Mathematics/Polynomial1.h>
+#include <GTE/Mathematics/RootsPolynomial.h>
 #include <set>
 
 // The 3D circle-circle distance algorithm is described in

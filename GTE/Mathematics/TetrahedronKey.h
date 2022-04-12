@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/FeatureKey.h>
+#include <GTE/Mathematics/FeatureKey.h>
 
 // An ordered tetrahedron has V[0] = min(v0, v1, v2, v3).  Let {u1, u2, u3}
 // be the set of inputs excluding the one assigned to V[0] and define

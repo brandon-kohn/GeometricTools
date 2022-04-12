@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/IntrIntervals.h>
-#include <GeometricTools/GTE/Mathematics/IntrLine3Cylinder3.h>
-#include <GeometricTools/GTE/Mathematics/Segment.h>
+#include <GTE/Mathematics/IntrIntervals.h>
+#include <GTE/Mathematics/IntrLine3Cylinder3.h>
+#include <GTE/Mathematics/Segment.h>
 
 // The queries consider the cylinder to be a solid.
 

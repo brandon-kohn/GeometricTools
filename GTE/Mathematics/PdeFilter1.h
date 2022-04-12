@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/PdeFilter.h>
+#include <GTE/Mathematics/PdeFilter.h>
 #include <array>
 #include <limits>
 #include <vector>

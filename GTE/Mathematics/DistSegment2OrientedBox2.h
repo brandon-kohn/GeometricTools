@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/DistLine2OrientedBox2.h>
-#include <GeometricTools/GTE/Mathematics/DistPointOrientedBox.h>
-#include <GeometricTools/GTE/Mathematics/Segment.h>
+#include <GTE/Mathematics/DistLine2OrientedBox2.h>
+#include <GTE/Mathematics/DistPointOrientedBox.h>
+#include <GTE/Mathematics/Segment.h>
 
 // Compute the distance between a segment and a solid oriented box in 2D.
 // 

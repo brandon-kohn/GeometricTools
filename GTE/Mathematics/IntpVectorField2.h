@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Delaunay2Mesh.h>
-#include <GeometricTools/GTE/Mathematics/IntpQuadraticNonuniform2.h>
+#include <GTE/Mathematics/Delaunay2Mesh.h>
+#include <GTE/Mathematics/IntpQuadraticNonuniform2.h>
 #include <memory>
 
 // Given points (x0[i],y0[i]) which are mapped to (x1[i],y1[i]) for

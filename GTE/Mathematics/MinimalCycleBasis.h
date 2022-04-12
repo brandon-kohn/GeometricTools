@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/MinHeap.h>
+#include <GTE/Mathematics/MinHeap.h>
 #include <array>
 #include <map>
 #include <memory>

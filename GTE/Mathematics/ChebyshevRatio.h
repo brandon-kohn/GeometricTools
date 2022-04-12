@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Math.h>
+#include <GTE/Mathematics/Math.h>
 
 // Let f(t,A) = sin(t*A)/sin(A).  The slerp of quaternions q0 and q1 is
 //   slerp(t,q0,q1) = f(1-t,A)*q0 + f(t,A)*q1.

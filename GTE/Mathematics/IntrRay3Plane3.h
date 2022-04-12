@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/IntrLine3Plane3.h>
-#include <GeometricTools/GTE/Mathematics/Ray.h>
+#include <GTE/Mathematics/IntrLine3Plane3.h>
+#include <GTE/Mathematics/Ray.h>
 
 namespace gte
 {

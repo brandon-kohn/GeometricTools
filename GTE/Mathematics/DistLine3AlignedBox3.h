@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/DistLine3CanonicalBox3.h>
-#include <GeometricTools/GTE/Mathematics/AlignedBox.h>
+#include <GTE/Mathematics/DistLine3CanonicalBox3.h>
+#include <GTE/Mathematics/AlignedBox.h>
 
 // Compute the distance between a line and a solid aligned box in 3D.
 //

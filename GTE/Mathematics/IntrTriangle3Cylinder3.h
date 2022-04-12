@@ -7,11 +7,11 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/TIQuery.h>
-#include <GeometricTools/GTE/Mathematics/Triangle.h>
-#include <GeometricTools/GTE/Mathematics/Cylinder3.h>
-#include <GeometricTools/GTE/Mathematics/Vector2.h>
-#include <GeometricTools/GTE/Mathematics/Vector3.h>
+#include <GTE/Mathematics/TIQuery.h>
+#include <GTE/Mathematics/Triangle.h>
+#include <GTE/Mathematics/Cylinder3.h>
+#include <GTE/Mathematics/Vector2.h>
+#include <GTE/Mathematics/Vector3.h>
 
 // An algorithm for the test-intersection query between a triangle and a
 // finite cylinder is described in

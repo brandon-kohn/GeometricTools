@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Vector2.h>
+#include <GTE/Mathematics/Vector2.h>
 
 // The circle containing the arc is represented as |X-C| = R where C is the
 // center and R is the radius.  The arc is defined by two points end0 and

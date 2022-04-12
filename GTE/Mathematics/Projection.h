@@ -7,11 +7,11 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Hyperellipsoid.h>
-#include <GeometricTools/GTE/Mathematics/Hyperplane.h>
-#include <GeometricTools/GTE/Mathematics/Line.h>
-#include <GeometricTools/GTE/Mathematics/Matrix2x2.h>
-#include <GeometricTools/GTE/Mathematics/Matrix3x3.h>
+#include <GTE/Mathematics/Hyperellipsoid.h>
+#include <GTE/Mathematics/Hyperplane.h>
+#include <GTE/Mathematics/Line.h>
+#include <GTE/Mathematics/Matrix2x2.h>
+#include <GTE/Mathematics/Matrix3x3.h>
 
 // The algorithm for the perspective projection of an ellipsoid onto a
 // plane is described in

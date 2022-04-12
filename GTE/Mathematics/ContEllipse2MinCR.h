@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Logger.h>
-#include <GeometricTools/GTE/Mathematics/Matrix2x2.h>
+#include <GTE/Mathematics/Logger.h>
+#include <GTE/Mathematics/Matrix2x2.h>
 
 // Compute the minimum-area ellipse, (X-C)^T R D R^T (X-C) = 1, given the
 // center C and the orientation matrix R.  The columns of R are the axes of

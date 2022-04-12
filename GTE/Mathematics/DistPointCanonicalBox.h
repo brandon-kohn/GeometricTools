@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/DCPQuery.h>
-#include <GeometricTools/GTE/Mathematics/CanonicalBox.h>
+#include <GTE/Mathematics/DCPQuery.h>
+#include <GTE/Mathematics/CanonicalBox.h>
 
 // Compute the distance from a point to a solid canonical box in nD.
 // 

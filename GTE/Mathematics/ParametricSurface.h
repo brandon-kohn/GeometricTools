@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Vector.h>
+#include <GTE/Mathematics/Vector.h>
 #include <cstdint>
 
 namespace gte

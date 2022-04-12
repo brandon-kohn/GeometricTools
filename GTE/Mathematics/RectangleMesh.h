@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Mesh.h>
-#include <GeometricTools/GTE/Mathematics/Rectangle.h>
-#include <GeometricTools/GTE/Mathematics/Vector3.h>
+#include <GTE/Mathematics/Mesh.h>
+#include <GTE/Mathematics/Rectangle.h>
+#include <GTE/Mathematics/Vector3.h>
 #include <memory>
 
 namespace gte

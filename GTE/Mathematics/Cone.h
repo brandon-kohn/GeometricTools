@@ -7,12 +7,12 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Logger.h>
-#include <GeometricTools/GTE/Mathematics/Math.h>
-#include <GeometricTools/GTE/Mathematics/Ray.h>
-#include <GeometricTools/GTE/Mathematics/Vector2.h>
-#include <GeometricTools/GTE/Mathematics/Matrix3x3.h>
-#include <GeometricTools/GTE/Mathematics/UniqueVerticesSimplices.h>
+#include <GTE/Mathematics/Logger.h>
+#include <GTE/Mathematics/Math.h>
+#include <GTE/Mathematics/Ray.h>
+#include <GTE/Mathematics/Vector2.h>
+#include <GTE/Mathematics/Matrix3x3.h>
+#include <GTE/Mathematics/UniqueVerticesSimplices.h>
 
 // An infinite cone is defined by a vertex V, a unit-length direction D and an
 // angle A with 0 < A < pi/2. A point X is on the cone when

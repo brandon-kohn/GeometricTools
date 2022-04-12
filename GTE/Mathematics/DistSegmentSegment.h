@@ -25,8 +25,8 @@
 //   https://www.geometrictools.com/Documentation/DistanceLine3Line3.pdf
 // for details.
 
-#include <GeometricTools/GTE/Mathematics/DCPQuery.h>
-#include <GeometricTools/GTE/Mathematics/Segment.h>
+#include <GTE/Mathematics/DCPQuery.h>
+#include <GTE/Mathematics/Segment.h>
 
 namespace gte
 {

@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/GMatrix.h>
+#include <GTE/Mathematics/GMatrix.h>
 #include <array>
 
 // WARNING.  The implementation allows you to transform the inputs (x,y) to

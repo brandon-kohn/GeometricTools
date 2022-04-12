@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Vector.h>
+#include <GTE/Mathematics/Vector.h>
 
 // The ray is represented as P+t*D, where P is the ray origin, D is a
 // unit-length direction vector, and t >= 0.  The user must ensure that D is

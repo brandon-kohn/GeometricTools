@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/BitHacks.h>
-#include <GeometricTools/GTE/Mathematics/ContOrientedBox3.h>
+#include <GTE/Mathematics/BitHacks.h>
+#include <GTE/Mathematics/ContOrientedBox3.h>
 
 // The depth of a node in a (nonempty) tree is the distance from the node to
 // the root of the tree.  The height is the maximum depth.  A tree with a

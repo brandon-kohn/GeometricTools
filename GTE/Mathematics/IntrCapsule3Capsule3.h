@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/TIQuery.h>
-#include <GeometricTools/GTE/Mathematics/DistSegmentSegment.h>
-#include <GeometricTools/GTE/Mathematics/Capsule.h>
+#include <GTE/Mathematics/TIQuery.h>
+#include <GTE/Mathematics/DistSegmentSegment.h>
+#include <GTE/Mathematics/Capsule.h>
 
 namespace gte
 {

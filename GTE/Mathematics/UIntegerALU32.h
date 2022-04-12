@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/BitHacks.h>
+#include <GTE/Mathematics/BitHacks.h>
 #include <algorithm>
 
 // Support for unsigned integer arithmetic in BSNumber and BSRational.  The

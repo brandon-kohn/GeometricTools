@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Matrix2x2.h>
-#include <GeometricTools/GTE/Mathematics/Matrix3x3.h>
+#include <GTE/Mathematics/Matrix2x2.h>
+#include <GTE/Mathematics/Matrix3x3.h>
 
 // The MeshCurvature class estimates principal curvatures and principal
 // directions at the vertices of a manifold triangle mesh.  The algorithm

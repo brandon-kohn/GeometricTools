@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Math.h>
+#include <GTE/Mathematics/Math.h>
 
 // Minimax polynomial approximations to 2^x.  The polynomial p(x) of
 // degree D minimizes the quantity maximum{|2^x - p(x)| : x in [0,1]}

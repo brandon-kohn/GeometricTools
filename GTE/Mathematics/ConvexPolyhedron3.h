@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/AlignedBox.h>
-#include <GeometricTools/GTE/Mathematics/Vector4.h>
+#include <GTE/Mathematics/AlignedBox.h>
+#include <GTE/Mathematics/Vector4.h>
 #include <cstdint>
 #include <vector>
 

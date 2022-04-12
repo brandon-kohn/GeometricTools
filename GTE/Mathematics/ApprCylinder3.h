@@ -7,10 +7,10 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Cylinder3.h>
-#include <GeometricTools/GTE/Mathematics/Matrix3x3.h>
-#include <GeometricTools/GTE/Mathematics/SymmetricEigensolver3x3.h>
-#include <GeometricTools/GTE/Mathematics/ApprCircle2.h>
+#include <GTE/Mathematics/Cylinder3.h>
+#include <GTE/Mathematics/Matrix3x3.h>
+#include <GTE/Mathematics/SymmetricEigensolver3x3.h>
+#include <GTE/Mathematics/ApprCircle2.h>
 #include <cstdint>
 #include <vector>
 #include <thread>

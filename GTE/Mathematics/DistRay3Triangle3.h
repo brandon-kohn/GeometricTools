@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/DistLine3Triangle3.h>
-#include <GeometricTools/GTE/Mathematics/DistPointTriangle.h>
-#include <GeometricTools/GTE/Mathematics/Ray.h>
+#include <GTE/Mathematics/DistLine3Triangle3.h>
+#include <GTE/Mathematics/DistPointTriangle.h>
+#include <GTE/Mathematics/Ray.h>
 
 // Compute the distance between a ray and a triangle in 3D.
 // 

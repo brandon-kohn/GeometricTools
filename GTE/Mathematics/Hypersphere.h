@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <GeometricTools/GTE/Mathematics/Vector.h>
+#include <GTE/Mathematics/Vector.h>
 
 // The hypersphere is represented as |X-C| = R where C is the center and R is
 // the radius.  The hypersphere is a circle for dimension 2 or a sphere for

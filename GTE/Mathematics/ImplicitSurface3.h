@@ -12,7 +12,7 @@
 // to F = 0. The class is abstract, so you must derive from it and
 // implement the function and derivative evaluations.
 
-#include <GeometricTools/GTE/Mathematics/Matrix3x3.h>
+#include <GTE/Mathematics/Matrix3x3.h>
 
 namespace gte
 {

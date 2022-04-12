@@ -13,7 +13,7 @@ cmake_minimum_required(VERSION 3.8)
 
 add_library(GTE INTERFACE)
 target_include_directories(GTE INTERFACE
-  $<BUILD_INTERFACE:${GTE_SOURCE_DIR}>
+  $<BUILD_INTERFACE:${GTE_SOURCE_DIR}../../>
   $<INSTALL_INTERFACE:include>
 )
 

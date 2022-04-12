@@ -27,7 +27,7 @@ namespace gte
         template <int32_t D>
         inline static Real Degree(Real x)
         {
-            return Exp2Estimate<Real>::Degree<D>(x * (Real)GTE_C_INV_LN_2);
+            return Exp2Estimate<Real>::template Degree<D>(x * (Real)GTE_C_INV_LN_2);
         }
 
         // The input x can be any real number.  Range reduction is used to
@@ -38,7 +38,7 @@ namespace gte
         template <int32_t D>
         inline static Real DegreeRR(Real x)
         {
-            return Exp2Estimate<Real>::DegreeRR<D>(x * (Real)GTE_C_INV_LN_2);
+            return Exp2Estimate<Real>::template DegreeRR<D>(x * (Real)GTE_C_INV_LN_2);
         }
     };
 }

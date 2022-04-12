@@ -18,7 +18,7 @@ target_include_directories(GTE INTERFACE
 )
 
 # Deployment
-install ( DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/Mathematics DESTINATION ${CMAKE_INSTALL_INCLUDEDIR}/GeometricTools/GTE/Mathematics)
+install ( DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/Mathematics DESTINATION ${CMAKE_INSTALL_INCLUDEDIR}/GeometricTools/GTE)
 
 #add_subdirectory(Applications)
 #add_subdirectory(Graphics)

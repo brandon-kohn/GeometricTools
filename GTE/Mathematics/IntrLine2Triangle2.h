@@ -7,11 +7,11 @@
 
 #pragma once
 
-#include <Mathematics/FIQuery.h>
-#include <Mathematics/TIQuery.h>
-#include <Mathematics/Line.h>
-#include <Mathematics/Triangle.h>
-#include <Mathematics/Vector2.h>
+#include <GeometricTools/GTE/Mathematics/FIQuery.h>
+#include <GeometricTools/GTE/Mathematics/TIQuery.h>
+#include <GeometricTools/GTE/Mathematics/Line.h>
+#include <GeometricTools/GTE/Mathematics/Triangle.h>
+#include <GeometricTools/GTE/Mathematics/Vector2.h>
 
 // The queries consider the triangle to be a solid. The algorithms are based
 // on determining on which side of the line the vertices lie. The test uses

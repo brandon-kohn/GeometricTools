@@ -6,12 +6,12 @@
 // Version: 6.0.2022.01.06
 
 #pragma once
-#include <Mathematics/Logger.h>
-#include <Mathematics/ConvexHull3.h>
-#include <Mathematics/MinimumAreaBox2.h>
-#include <Mathematics/VETManifoldMesh.h>
-#include <Mathematics/AlignedBox.h>
-#include <Mathematics/UniqueVerticesSimplices.h>
+#include <GeometricTools/GTE/Mathematics/Logger.h>
+#include <GeometricTools/GTE/Mathematics/ConvexHull3.h>
+#include <GeometricTools/GTE/Mathematics/MinimumAreaBox2.h>
+#include <GeometricTools/GTE/Mathematics/VETManifoldMesh.h>
+#include <GeometricTools/GTE/Mathematics/AlignedBox.h>
+#include <GeometricTools/GTE/Mathematics/UniqueVerticesSimplices.h>
 #include <cstring>
 
 // Compute a minimum-volume oriented box containing the specified points. The

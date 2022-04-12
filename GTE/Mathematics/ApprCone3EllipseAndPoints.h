@@ -7,14 +7,14 @@
 
 #pragma once
 
-#include <Mathematics/Logger.h>
-#include <Mathematics/ApprGaussian3.h>
-#include <Mathematics/ApprEllipse2.h>
-#include <Mathematics/Cone.h>
-#include <Mathematics/Ellipse3.h>
-#include <Mathematics/Hyperplane.h>
-#include <Mathematics/Minimize1.h>
-#include <Mathematics/OBBTreeOfPoints.h>
+#include <GeometricTools/GTE/Mathematics/Logger.h>
+#include <GeometricTools/GTE/Mathematics/ApprGaussian3.h>
+#include <GeometricTools/GTE/Mathematics/ApprEllipse2.h>
+#include <GeometricTools/GTE/Mathematics/Cone.h>
+#include <GeometricTools/GTE/Mathematics/Ellipse3.h>
+#include <GeometricTools/GTE/Mathematics/Hyperplane.h>
+#include <GeometricTools/GTE/Mathematics/Minimize1.h>
+#include <GeometricTools/GTE/Mathematics/OBBTreeOfPoints.h>
 
 // An infinite single-sided cone is fit to a 3D ellipse that is known to be
 // the intersection of a plane with the cone. The ellipse itself is not

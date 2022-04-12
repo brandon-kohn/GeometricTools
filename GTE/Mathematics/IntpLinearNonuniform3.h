@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/Logger.h>
-#include <Mathematics/Vector3.h>
+#include <GeometricTools/GTE/Mathematics/Logger.h>
+#include <GeometricTools/GTE/Mathematics/Vector3.h>
 
 // Linear interpolation of a network of triangles whose vertices are of the
 // form (x,y,z,f(x,y,z)).  The function samples are F[i] and represent

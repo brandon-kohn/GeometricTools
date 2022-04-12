@@ -7,12 +7,12 @@
 
 #pragma once
 
-#include <Mathematics/Logger.h>
-#include <Mathematics/TIQuery.h>
-#include <Mathematics/CanonicalBox.h>
-#include <Mathematics/Cylinder3.h>
-#include <Mathematics/Vector2.h>
-#include <Mathematics/Vector3.h>
+#include <GeometricTools/GTE/Mathematics/Logger.h>
+#include <GeometricTools/GTE/Mathematics/TIQuery.h>
+#include <GeometricTools/GTE/Mathematics/CanonicalBox.h>
+#include <GeometricTools/GTE/Mathematics/Cylinder3.h>
+#include <GeometricTools/GTE/Mathematics/Vector2.h>
+#include <GeometricTools/GTE/Mathematics/Vector3.h>
 
 // The query is for finite cylinders. The cylinder and box are considered to
 // be solids. The cylinder has center C, unit-length axis direction D, radius

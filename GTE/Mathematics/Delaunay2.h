@@ -7,16 +7,16 @@
 
 #pragma once
 
-// Remove includes of <Mathematics/PrimalQuery2.h> and <set> once
+// Remove includes of <GeometricTools/GTE/Mathematics/PrimalQuery2.h> and <set> once
 // Delaunay2<InputType, ComputeType> is removed.
-#include <Mathematics/Logger.h>
-#include <Mathematics/ArbitraryPrecision.h>
-#include <Mathematics/HashCombine.h>
-#include <Mathematics/Line.h>
-#include <Mathematics/PrimalQuery2.h>
-#include <Mathematics/SWInterval.h>
-#include <Mathematics/Vector2.h>
-#include <Mathematics/VETManifoldMesh.h>
+#include <GeometricTools/GTE/Mathematics/Logger.h>
+#include <GeometricTools/GTE/Mathematics/ArbitraryPrecision.h>
+#include <GeometricTools/GTE/Mathematics/HashCombine.h>
+#include <GeometricTools/GTE/Mathematics/Line.h>
+#include <GeometricTools/GTE/Mathematics/PrimalQuery2.h>
+#include <GeometricTools/GTE/Mathematics/SWInterval.h>
+#include <GeometricTools/GTE/Mathematics/Vector2.h>
+#include <GeometricTools/GTE/Mathematics/VETManifoldMesh.h>
 #include <numeric>
 #include <set>
 

@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/DCPQuery.h>
-#include <Mathematics/Frustum3.h>
+#include <GeometricTools/GTE/Mathematics/DCPQuery.h>
+#include <GeometricTools/GTE/Mathematics/Frustum3.h>
 
 // The algorithm for computing the distance from a point to an orthogonal
 // frustum is described in

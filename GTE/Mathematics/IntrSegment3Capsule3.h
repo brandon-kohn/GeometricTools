@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/DistSegmentSegment.h>
-#include <Mathematics/IntrIntervals.h>
-#include <Mathematics/IntrLine3Capsule3.h>
+#include <GeometricTools/GTE/Mathematics/DistSegmentSegment.h>
+#include <GeometricTools/GTE/Mathematics/IntrIntervals.h>
+#include <GeometricTools/GTE/Mathematics/IntrLine3Capsule3.h>
 
 // The queries consider the capsule to be a solid.
 //

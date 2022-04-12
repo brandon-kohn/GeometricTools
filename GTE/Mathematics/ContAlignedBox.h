@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/AlignedBox.h>
+#include <GeometricTools/GTE/Mathematics/AlignedBox.h>
 
 namespace gte
 {

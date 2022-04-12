@@ -7,10 +7,10 @@
 
 #pragma once
 
-#include <Mathematics/AxisAngle.h>
-#include <Mathematics/EulerAngles.h>
-#include <Mathematics/Matrix.h>
-#include <Mathematics/Quaternion.h>
+#include <GeometricTools/GTE/Mathematics/AxisAngle.h>
+#include <GeometricTools/GTE/Mathematics/EulerAngles.h>
+#include <GeometricTools/GTE/Mathematics/Matrix.h>
+#include <GeometricTools/GTE/Mathematics/Quaternion.h>
 
 namespace gte
 {

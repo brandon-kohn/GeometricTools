@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/Vector.h>
+#include <GeometricTools/GTE/Mathematics/Vector.h>
 
 // The triangle is represented as an array of three vertices.  The dimension
 // N must be 2 or larger.

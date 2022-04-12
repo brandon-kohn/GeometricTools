@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/DistRectangle3CanonicalBox3.h>
-#include <Mathematics/OrientedBox.h>
+#include <GeometricTools/GTE/Mathematics/DistRectangle3CanonicalBox3.h>
+#include <GeometricTools/GTE/Mathematics/OrientedBox.h>
 
 // Compute the distance between a rectangle and a solid oriented box in 3D.
 //

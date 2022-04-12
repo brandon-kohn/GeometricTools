@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/LinearSystem.h>
-#include <Mathematics/Matrix.h>
-#include <Mathematics/Vector3.h>
+#include <GeometricTools/GTE/Mathematics/LinearSystem.h>
+#include <GeometricTools/GTE/Mathematics/Matrix.h>
+#include <GeometricTools/GTE/Mathematics/Vector3.h>
 
 // Least-squares fit of a paraboloid to a set of point.  The paraboloid is
 // of the form z = c0*x^2+c1*x*y+c2*y^2+c3*x+c4*y+c5.  A successful fit is

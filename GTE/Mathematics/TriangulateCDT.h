@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/Logger.h>
-#include <Mathematics/PolygonTree.h>
-#include <Mathematics/ConstrainedDelaunay2.h>
+#include <GeometricTools/GTE/Mathematics/Logger.h>
+#include <GeometricTools/GTE/Mathematics/PolygonTree.h>
+#include <GeometricTools/GTE/Mathematics/ConstrainedDelaunay2.h>
 #include <numeric>
 
 // The fundamental problem is to compute the triangulation of a polygon tree.

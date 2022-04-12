@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/Image2.h>
+#include <GeometricTools/GTE/Mathematics/Image2.h>
 #include <cmath>
 #include <functional>
 #include <limits>

@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/Vector2.h>
-#include <Mathematics/Vector3.h>
+#include <GeometricTools/GTE/Mathematics/Vector2.h>
+#include <GeometricTools/GTE/Mathematics/Vector3.h>
 
 // The plane containing ellipse is Dot(N,X-C) = 0 where X is any point in the
 // plane, C is the ellipse center, and N is a unit-length normal to the plane.

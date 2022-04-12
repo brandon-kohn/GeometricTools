@@ -13,10 +13,10 @@
 // computing signs of various expressions. The implementation uses interval
 // arithmetic and rational arithmetic for the predicate.
 
-#include <Mathematics/ArbitraryPrecision.h>
-#include <Mathematics/SWInterval.h>
-#include <Mathematics/Line.h>
-#include <Mathematics/Vector2.h>
+#include <GeometricTools/GTE/Mathematics/ArbitraryPrecision.h>
+#include <GeometricTools/GTE/Mathematics/SWInterval.h>
+#include <GeometricTools/GTE/Mathematics/Line.h>
+#include <GeometricTools/GTE/Mathematics/Vector2.h>
 
 // Uncomment this to assert when an infinite loop is encountered in
 // ConvexHull2::GetTangent.

@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/Matrix2x2.h>
-#include <Mathematics/ParametricSurface.h>
-#include <Mathematics/Vector3.h>
+#include <GeometricTools/GTE/Mathematics/Matrix2x2.h>
+#include <GeometricTools/GTE/Mathematics/ParametricSurface.h>
+#include <GeometricTools/GTE/Mathematics/Vector3.h>
 #include <memory>
 
 namespace gte

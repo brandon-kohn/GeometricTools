@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/Logger.h>
-#include <Mathematics/MinHeap.h>
-#include <Mathematics/DistPointSegment.h>
+#include <GeometricTools/GTE/Mathematics/Logger.h>
+#include <GeometricTools/GTE/Mathematics/MinHeap.h>
+#include <GeometricTools/GTE/Mathematics/DistPointSegment.h>
 #include <vector>
 
 // The continuous level of detail (CLOD) algorithm implemented here is

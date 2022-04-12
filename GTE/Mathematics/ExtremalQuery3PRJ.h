@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/ExtremalQuery3.h>
+#include <GeometricTools/GTE/Mathematics/ExtremalQuery3.h>
 
 namespace gte
 {

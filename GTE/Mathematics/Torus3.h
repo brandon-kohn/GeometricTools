@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/Vector3.h>
+#include <GeometricTools/GTE/Mathematics/Vector3.h>
 #include <cstdint>
 
 // A torus with origin (0,0,0), outer radius r0 and inner radius r1 (with

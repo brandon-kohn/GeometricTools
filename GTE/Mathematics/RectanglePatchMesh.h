@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/Mesh.h>
-#include <Mathematics/ParametricSurface.h>
+#include <GeometricTools/GTE/Mathematics/Mesh.h>
+#include <GeometricTools/GTE/Mathematics/ParametricSurface.h>
 #include <memory>
 
 namespace gte

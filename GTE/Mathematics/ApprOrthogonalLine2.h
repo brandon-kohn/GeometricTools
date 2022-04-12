@@ -7,10 +7,10 @@
 
 #pragma once
 
-#include <Mathematics/ApprQuery.h>
-#include <Mathematics/Line.h>
-#include <Mathematics/SymmetricEigensolver2x2.h>
-#include <Mathematics/Vector2.h>
+#include <GeometricTools/GTE/Mathematics/ApprQuery.h>
+#include <GeometricTools/GTE/Mathematics/Line.h>
+#include <GeometricTools/GTE/Mathematics/SymmetricEigensolver2x2.h>
+#include <GeometricTools/GTE/Mathematics/Vector2.h>
 
 // Least-squares fit of a line to (x,y) data by using distance measurements
 // orthogonal to the proposed line. The return value is 'true' if and only

@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/TIQuery.h>
-#include <Mathematics/Hypersphere.h>
-#include <Mathematics/Sector2.h>
+#include <GeometricTools/GTE/Mathematics/TIQuery.h>
+#include <GeometricTools/GTE/Mathematics/Hypersphere.h>
+#include <GeometricTools/GTE/Mathematics/Sector2.h>
 
 // The Circle2 object is considered to be a disk whose points X satisfy the
 // constraint |X-C| <= R, where C is the disk center and R is the disk

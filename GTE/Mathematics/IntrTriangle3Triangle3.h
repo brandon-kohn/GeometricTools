@@ -7,11 +7,11 @@
 
 #pragma once
 
-#include <Mathematics/TIQuery.h>
-#include <Mathematics/FIQuery.h>
-#include <Mathematics/Vector3.h>
-#include <Mathematics/IntrTriangle2Triangle2.h>
-#include <Mathematics/IntrSegment2Triangle2.h>
+#include <GeometricTools/GTE/Mathematics/TIQuery.h>
+#include <GeometricTools/GTE/Mathematics/FIQuery.h>
+#include <GeometricTools/GTE/Mathematics/Vector3.h>
+#include <GeometricTools/GTE/Mathematics/IntrTriangle2Triangle2.h>
+#include <GeometricTools/GTE/Mathematics/IntrSegment2Triangle2.h>
 
 // The queries consider the triangles to be solids.
 //

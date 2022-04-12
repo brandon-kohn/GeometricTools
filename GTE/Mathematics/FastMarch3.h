@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/FastMarch.h>
-#include <Mathematics/Math.h>
+#include <GeometricTools/GTE/Mathematics/FastMarch.h>
+#include <GeometricTools/GTE/Mathematics/Math.h>
 
 // The topic of fast marching methods are discussed in the book
 //   Level Set Methods and Fast Marching Methods:

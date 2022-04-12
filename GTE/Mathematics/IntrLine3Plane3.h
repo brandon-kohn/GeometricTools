@@ -7,10 +7,10 @@
 
 #pragma once
 
-#include <Mathematics/FIQuery.h>
-#include <Mathematics/TIQuery.h>
-#include <Mathematics/Line.h>
-#include <Mathematics/DistPointHyperplane.h>
+#include <GeometricTools/GTE/Mathematics/FIQuery.h>
+#include <GeometricTools/GTE/Mathematics/TIQuery.h>
+#include <GeometricTools/GTE/Mathematics/Line.h>
+#include <GeometricTools/GTE/Mathematics/DistPointHyperplane.h>
 
 namespace gte
 {

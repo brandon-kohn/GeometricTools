@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/Cone.h>
+#include <GeometricTools/GTE/Mathematics/Cone.h>
 
 namespace gte
 {

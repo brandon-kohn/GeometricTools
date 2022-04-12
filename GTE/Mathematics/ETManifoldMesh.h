@@ -7,10 +7,10 @@
 
 #pragma once
 
-#include <Mathematics/Logger.h>
-#include <Mathematics/EdgeKey.h>
-#include <Mathematics/HashCombine.h>
-#include <Mathematics/TriangleKey.h>
+#include <GeometricTools/GTE/Mathematics/Logger.h>
+#include <GeometricTools/GTE/Mathematics/EdgeKey.h>
+#include <GeometricTools/GTE/Mathematics/HashCombine.h>
+#include <GeometricTools/GTE/Mathematics/TriangleKey.h>
 #include <limits>
 #include <map>
 #include <memory>

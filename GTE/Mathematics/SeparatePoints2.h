@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/ConvexHull2.h>
+#include <GeometricTools/GTE/Mathematics/ConvexHull2.h>
 
 // Separate two point sets, if possible, by computing a line for which the
 // point sets lie on opposite sides.  The algorithm computes the convex hull

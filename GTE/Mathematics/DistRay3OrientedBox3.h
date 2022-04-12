@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/DistLine3OrientedBox3.h>
-#include <Mathematics/DistPointOrientedBox.h>
-#include <Mathematics/Ray.h>
+#include <GeometricTools/GTE/Mathematics/DistLine3OrientedBox3.h>
+#include <GeometricTools/GTE/Mathematics/DistPointOrientedBox.h>
+#include <GeometricTools/GTE/Mathematics/Ray.h>
 
 // Compute the distance between a ray and a solid orienteded box in 3D.
 // 

@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/DCPQuery.h>
-#include <Mathematics/Ray.h>
-#include <Mathematics/Segment.h>
+#include <GeometricTools/GTE/Mathematics/DCPQuery.h>
+#include <GeometricTools/GTE/Mathematics/Ray.h>
+#include <GeometricTools/GTE/Mathematics/Segment.h>
 
 // Compute the distance between a ray and a segment in nD.
 // 

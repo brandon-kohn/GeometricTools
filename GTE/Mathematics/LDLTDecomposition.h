@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/Matrix.h>
-#include <Mathematics/GMatrix.h>
+#include <GeometricTools/GTE/Mathematics/Matrix.h>
+#include <GeometricTools/GTE/Mathematics/GMatrix.h>
 
 // Factor a positive symmetric matrix A = L * D * L^T, where L is a lower
 // triangular matrix with diagonal entries all 1 (L is lower unit triangular)

@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/FeatureKey.h>
+#include <GeometricTools/GTE/Mathematics/FeatureKey.h>
 
 // An ordered triangle has V[0] = min(v0, v1, v2).  Choose
 // (V[0], V[1], V[2]) to be a permutation of (v0, v1, v2) so that the final

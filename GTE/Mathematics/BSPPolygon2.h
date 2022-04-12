@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/Logger.h>
-#include <Mathematics/Vector2.h>
-#include <Mathematics/EdgeKey.h>
+#include <GeometricTools/GTE/Mathematics/Logger.h>
+#include <GeometricTools/GTE/Mathematics/Vector2.h>
+#include <GeometricTools/GTE/Mathematics/EdgeKey.h>
 #include <list>
 #include <map>
 #include <memory>

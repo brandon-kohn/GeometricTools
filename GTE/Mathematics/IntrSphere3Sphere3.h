@@ -7,10 +7,10 @@
 
 #pragma once
 
-#include <Mathematics/FIQuery.h>
-#include <Mathematics/TIQuery.h>
-#include <Mathematics/Hypersphere.h>
-#include <Mathematics/Circle3.h>
+#include <GeometricTools/GTE/Mathematics/FIQuery.h>
+#include <GeometricTools/GTE/Mathematics/TIQuery.h>
+#include <GeometricTools/GTE/Mathematics/Hypersphere.h>
+#include <GeometricTools/GTE/Mathematics/Circle3.h>
 
 // The queries consider the spheres to be solids.
 

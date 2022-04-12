@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/Logger.h>
-#include <Mathematics/DCPQuery.h>
-#include <Mathematics/Circle3.h>
+#include <GeometricTools/GTE/Mathematics/Logger.h>
+#include <GeometricTools/GTE/Mathematics/DCPQuery.h>
+#include <GeometricTools/GTE/Mathematics/Circle3.h>
 
 // The 3D point-circle distance algorithm is described in
 // https://www.geometrictools.com/Documentation/DistanceToCircle3.pdf

@@ -7,10 +7,10 @@
 
 #pragma once
 
-#include <Mathematics/Logger.h>
-#include <Mathematics/WeakPtrCompare.h>
-#include <Mathematics/EdgeKey.h>
-#include <Mathematics/TriangleKey.h>
+#include <GeometricTools/GTE/Mathematics/Logger.h>
+#include <GeometricTools/GTE/Mathematics/WeakPtrCompare.h>
+#include <GeometricTools/GTE/Mathematics/EdgeKey.h>
+#include <GeometricTools/GTE/Mathematics/TriangleKey.h>
 #include <map>
 #include <set>
 #include <vector>

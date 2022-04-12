@@ -7,10 +7,10 @@
 
 #pragma once
 
-#include <Mathematics/FIQuery.h>
-#include <Mathematics/Halfspace.h>
-#include <Mathematics/OrientedBox.h>
-#include <Mathematics/Vector2.h>
+#include <GeometricTools/GTE/Mathematics/FIQuery.h>
+#include <GeometricTools/GTE/Mathematics/Halfspace.h>
+#include <GeometricTools/GTE/Mathematics/OrientedBox.h>
+#include <GeometricTools/GTE/Mathematics/Vector2.h>
 #include <vector>
 
 // The queries consider the box to be a solid and the polygon to be a

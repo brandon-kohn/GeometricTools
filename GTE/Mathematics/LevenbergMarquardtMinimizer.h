@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/CholeskyDecomposition.h>
+#include <GeometricTools/GTE/Mathematics/CholeskyDecomposition.h>
 #include <functional>
 
 // See GaussNewtonMinimizer.h for a formulation of the minimization

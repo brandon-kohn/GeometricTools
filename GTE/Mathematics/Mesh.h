@@ -7,12 +7,12 @@
 
 #pragma once
 
-#include <Mathematics/Logger.h>
-#include <Mathematics/Matrix.h>
-#include <Mathematics/IndexAttribute.h>
-#include <Mathematics/VertexAttribute.h>
-#include <Mathematics/Vector2.h>
-#include <Mathematics/Vector3.h>
+#include <GeometricTools/GTE/Mathematics/Logger.h>
+#include <GeometricTools/GTE/Mathematics/Matrix.h>
+#include <GeometricTools/GTE/Mathematics/IndexAttribute.h>
+#include <GeometricTools/GTE/Mathematics/VertexAttribute.h>
+#include <GeometricTools/GTE/Mathematics/Vector2.h>
+#include <GeometricTools/GTE/Mathematics/Vector3.h>
 
 // The Mesh class is designed to support triangulations of surfaces of a small
 // number of topologies. See the documents

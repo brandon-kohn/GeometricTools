@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/BasisFunction.h>
-#include <Mathematics/ParametricSurface.h>
-#include <Mathematics/Vector.h>
+#include <GeometricTools/GTE/Mathematics/BasisFunction.h>
+#include <GeometricTools/GTE/Mathematics/ParametricSurface.h>
+#include <GeometricTools/GTE/Mathematics/Vector.h>
 
 namespace gte
 {

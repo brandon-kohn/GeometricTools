@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/DistLine3AlignedBox3.h>
-#include <Mathematics/DistPointAlignedBox.h>
-#include <Mathematics/Segment.h>
+#include <GeometricTools/GTE/Mathematics/DistLine3AlignedBox3.h>
+#include <GeometricTools/GTE/Mathematics/DistPointAlignedBox.h>
+#include <GeometricTools/GTE/Mathematics/Segment.h>
 
 // Compute the distance between a segmet and a solid aligned box in 3D.
 // 

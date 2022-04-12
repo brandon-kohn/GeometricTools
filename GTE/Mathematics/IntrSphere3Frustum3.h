@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/TIQuery.h>
-#include <Mathematics/DistPoint3Frustum3.h>
-#include <Mathematics/Hypersphere.h>
+#include <GeometricTools/GTE/Mathematics/TIQuery.h>
+#include <GeometricTools/GTE/Mathematics/DistPoint3Frustum3.h>
+#include <GeometricTools/GTE/Mathematics/Hypersphere.h>
 
 namespace gte
 {

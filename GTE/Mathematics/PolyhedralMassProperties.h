@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/Matrix3x3.h>
+#include <GeometricTools/GTE/Mathematics/Matrix3x3.h>
 
 namespace gte
 {

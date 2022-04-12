@@ -7,11 +7,11 @@
 
 #pragma once
 
-#include <Mathematics/MinHeap.h>
-#include <Mathematics/Polygon2.h>
-#include <Mathematics/TriangulateEC.h>
-#include <Mathematics/Vector3.h>
-#include <Mathematics/VETManifoldMesh.h>
+#include <GeometricTools/GTE/Mathematics/MinHeap.h>
+#include <GeometricTools/GTE/Mathematics/Polygon2.h>
+#include <GeometricTools/GTE/Mathematics/TriangulateEC.h>
+#include <GeometricTools/GTE/Mathematics/Vector3.h>
+#include <GeometricTools/GTE/Mathematics/VETManifoldMesh.h>
 #include <set>
 
 namespace gte

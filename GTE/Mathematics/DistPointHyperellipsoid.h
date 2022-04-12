@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/DCPQuery.h>
-#include <Mathematics/Hyperellipsoid.h>
-#include <Mathematics/Vector.h>
+#include <GeometricTools/GTE/Mathematics/DCPQuery.h>
+#include <GeometricTools/GTE/Mathematics/Hyperellipsoid.h>
+#include <GeometricTools/GTE/Mathematics/Vector.h>
 
 // Compute the distance from a point to a hyperellipsoid in nD. The
 // hyperellipsoid is considered to be a closed surface, not a solid. In 2D,

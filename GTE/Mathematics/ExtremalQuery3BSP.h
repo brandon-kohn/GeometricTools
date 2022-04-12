@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/ExtremalQuery3.h>
-#include <Mathematics/RangeIteration.h>
-#include <Mathematics/VETManifoldMesh.h>
+#include <GeometricTools/GTE/Mathematics/ExtremalQuery3.h>
+#include <GeometricTools/GTE/Mathematics/RangeIteration.h>
+#include <GeometricTools/GTE/Mathematics/VETManifoldMesh.h>
 #include <stack>
 #include <queue>
 

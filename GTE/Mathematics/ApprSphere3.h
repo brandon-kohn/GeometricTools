@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/Hypersphere.h>
-#include <Mathematics/Vector3.h>
+#include <GeometricTools/GTE/Mathematics/Hypersphere.h>
+#include <GeometricTools/GTE/Mathematics/Vector3.h>
 #include <cstdint>
 
 // Least-squares fit of a sphere to a set of points. The algorithms are

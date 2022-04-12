@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/DistTriangle3Triangle3.h>
-#include <Mathematics/ContTetrahedron3.h>
+#include <GeometricTools/GTE/Mathematics/DistTriangle3Triangle3.h>
+#include <GeometricTools/GTE/Mathematics/ContTetrahedron3.h>
 #include <array>
 
 // Compute the distance between two solid tetrahedra in 3D.

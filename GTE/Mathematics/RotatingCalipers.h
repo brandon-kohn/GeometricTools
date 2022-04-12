@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/ArbitraryPrecision.h>
-#include <Mathematics/Vector2.h>
+#include <GeometricTools/GTE/Mathematics/ArbitraryPrecision.h>
+#include <GeometricTools/GTE/Mathematics/Vector2.h>
 
 // The rotating calipers algorithm finds all antipodal vertex-edge pairs for a
 // convex polygon. The algorithm is O(n) in time for n polygon edges. The

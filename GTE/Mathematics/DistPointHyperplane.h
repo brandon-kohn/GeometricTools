@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/DCPQuery.h>
-#include <Mathematics/Hyperplane.h>
+#include <GeometricTools/GTE/Mathematics/DCPQuery.h>
+#include <GeometricTools/GTE/Mathematics/Hyperplane.h>
 
 // Compute the distance between a point and a line (N = 2), between a point
 // and a plane (N = 3) or generally between a point and a hyperplane (N >= 2).

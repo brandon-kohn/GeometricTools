@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/OrientedBox.h>
-#include <Mathematics/IntrCanonicalBox3Cylinder3.h>
+#include <GeometricTools/GTE/Mathematics/OrientedBox.h>
+#include <GeometricTools/GTE/Mathematics/IntrCanonicalBox3Cylinder3.h>
 
 // The query is for finite cylinders. The cylinder and box are considered to
 // be solids. The cylinder has center C, unit-length axis direction D, radius

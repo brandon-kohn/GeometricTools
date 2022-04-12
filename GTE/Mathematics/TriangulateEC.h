@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/Logger.h>
-#include <Mathematics/PolygonTree.h>
-#include <Mathematics/PrimalQuery2.h>
+#include <GeometricTools/GTE/Mathematics/Logger.h>
+#include <GeometricTools/GTE/Mathematics/PolygonTree.h>
+#include <GeometricTools/GTE/Mathematics/PrimalQuery2.h>
 #include <memory>
 #include <map>
 #include <queue>

@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/CurveExtractor.h>
+#include <GeometricTools/GTE/Mathematics/CurveExtractor.h>
 
 // The level set extraction algorithm implemented here is described
 // in Section 3 of the document

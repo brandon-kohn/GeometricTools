@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/ApprQuery.h>
-#include <Mathematics/Vector2.h>
+#include <GeometricTools/GTE/Mathematics/ApprQuery.h>
+#include <GeometricTools/GTE/Mathematics/Vector2.h>
 
 // Least-squares fit of a line to height data (x,f(x)). The line is of the
 // form: (y - yAvr) = a*(x - xAvr), where (xAvr,yAvr) is the average of the

@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/DistPointHyperplane.h>
-#include <Mathematics/EdgeKey.h>
+#include <GeometricTools/GTE/Mathematics/DistPointHyperplane.h>
+#include <GeometricTools/GTE/Mathematics/EdgeKey.h>
 #include <map>
 
 // The algorithm for splitting a mesh by a plane is described in

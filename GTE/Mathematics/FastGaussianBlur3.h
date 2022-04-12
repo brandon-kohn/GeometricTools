@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/Math.h>
+#include <GeometricTools/GTE/Mathematics/Math.h>
 
 // The algorithms here are based on solving the linear heat equation using
 // finite differences in scale, not in time.  The following document has

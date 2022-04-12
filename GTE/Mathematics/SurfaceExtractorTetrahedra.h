@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/SurfaceExtractor.h>
+#include <GeometricTools/GTE/Mathematics/SurfaceExtractor.h>
 #include <set>
 
 // The level set extraction algorithm implemented here is described

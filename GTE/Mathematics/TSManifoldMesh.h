@@ -7,10 +7,10 @@
 
 #pragma once
 
-#include <Mathematics/Logger.h>
-#include <Mathematics/HashCombine.h>
-#include <Mathematics/TetrahedronKey.h>
-#include <Mathematics/TriangleKey.h>
+#include <GeometricTools/GTE/Mathematics/Logger.h>
+#include <GeometricTools/GTE/Mathematics/HashCombine.h>
+#include <GeometricTools/GTE/Mathematics/TetrahedronKey.h>
+#include <GeometricTools/GTE/Mathematics/TriangleKey.h>
 #include <map>
 #include <memory>
 #include <unordered_map>

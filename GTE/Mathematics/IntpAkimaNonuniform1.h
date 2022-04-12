@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/IntpAkima1.h>
+#include <GeometricTools/GTE/Mathematics/IntpAkima1.h>
 
 namespace gte
 {

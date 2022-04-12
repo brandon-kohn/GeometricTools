@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/IntrSegment3AlignedBox3.h>
-#include <Mathematics/OrientedBox.h>
+#include <GeometricTools/GTE/Mathematics/IntrSegment3AlignedBox3.h>
+#include <GeometricTools/GTE/Mathematics/OrientedBox.h>
 
 // The test-intersection queries use the method of separating axes.
 // https://www.geometrictools.com/Documentation/MethodOfSeparatingAxes.pdf

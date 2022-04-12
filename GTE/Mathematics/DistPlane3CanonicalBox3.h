@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/DCPQuery.h>
-#include <Mathematics/Hyperplane.h>
-#include <Mathematics/CanonicalBox.h>
+#include <GeometricTools/GTE/Mathematics/DCPQuery.h>
+#include <GeometricTools/GTE/Mathematics/Hyperplane.h>
+#include <GeometricTools/GTE/Mathematics/CanonicalBox.h>
 
 // Compute the distance between a plane and a solid canonical box in 3D.
 // 

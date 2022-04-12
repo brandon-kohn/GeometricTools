@@ -7,11 +7,11 @@
 
 #pragma once
 
-#include <Mathematics/ArbitraryPrecision.h>
-#include <Mathematics/ApprOrthogonalPlane3.h>
-#include <Mathematics/RootsPolynomial.h>
-#include <Mathematics/GaussNewtonMinimizer.h>
-#include <Mathematics/LevenbergMarquardtMinimizer.h>
+#include <GeometricTools/GTE/Mathematics/ArbitraryPrecision.h>
+#include <GeometricTools/GTE/Mathematics/ApprOrthogonalPlane3.h>
+#include <GeometricTools/GTE/Mathematics/RootsPolynomial.h>
+#include <GeometricTools/GTE/Mathematics/GaussNewtonMinimizer.h>
+#include <GeometricTools/GTE/Mathematics/LevenbergMarquardtMinimizer.h>
 
 // Let the torus center be C with plane of symmetry containing C and having
 // directions D0 and D1.  The axis of symmetry is the line containing C and

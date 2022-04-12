@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/Integration.h>
-#include <Mathematics/RootsBisection.h>
-#include <Mathematics/Vector.h>
+#include <GeometricTools/GTE/Mathematics/Integration.h>
+#include <GeometricTools/GTE/Mathematics/RootsBisection.h>
+#include <GeometricTools/GTE/Mathematics/Vector.h>
 
 namespace gte
 {

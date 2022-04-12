@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/IntrConvexPolygonHyperplane.h>
-#include <Mathematics/Triangle.h>
-#include <Mathematics/Vector2.h>
+#include <GeometricTools/GTE/Mathematics/IntrConvexPolygonHyperplane.h>
+#include <GeometricTools/GTE/Mathematics/Triangle.h>
+#include <GeometricTools/GTE/Mathematics/Vector2.h>
 
 // The test-intersection queries are based on the document
 // https://www.geometrictools.com/Documentation/MethodOfSeparatingAxes.pdf

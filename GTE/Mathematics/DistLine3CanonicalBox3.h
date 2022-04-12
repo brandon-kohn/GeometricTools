@@ -7,10 +7,10 @@
 
 #pragma once
 
-#include <Mathematics/DCPQuery.h>
-#include <Mathematics/Line.h>
-#include <Mathematics/CanonicalBox.h>
-#include <Mathematics/Vector3.h>
+#include <GeometricTools/GTE/Mathematics/DCPQuery.h>
+#include <GeometricTools/GTE/Mathematics/Line.h>
+#include <GeometricTools/GTE/Mathematics/CanonicalBox.h>
+#include <GeometricTools/GTE/Mathematics/Vector3.h>
 
 // Compute the distance between a line and a canonical box in 3D.
 // 

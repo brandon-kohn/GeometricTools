@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/IntrLine2Line2.h>
-#include <Mathematics/Segment.h>
+#include <GeometricTools/GTE/Mathematics/IntrLine2Line2.h>
+#include <GeometricTools/GTE/Mathematics/Segment.h>
 
 namespace gte
 {

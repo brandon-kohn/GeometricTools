@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/DistLine3Rectangle3.h>
-#include <Mathematics/DistPointRectangle.h>
-#include <Mathematics/Ray.h>
+#include <GeometricTools/GTE/Mathematics/DistLine3Rectangle3.h>
+#include <GeometricTools/GTE/Mathematics/DistPointRectangle.h>
+#include <GeometricTools/GTE/Mathematics/Ray.h>
 
 // Compute the distance between a ray and a solid rectangle in 3D.
 // 

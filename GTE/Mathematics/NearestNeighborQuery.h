@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/Logger.h>
-#include <Mathematics/Vector.h>
+#include <GeometricTools/GTE/Mathematics/Logger.h>
+#include <GeometricTools/GTE/Mathematics/Vector.h>
 #include <vector>
 
 // TODO: This is not a KD-tree nearest neighbor query. Instead, it is an

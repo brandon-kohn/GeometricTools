@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/Vector3.h>
+#include <GeometricTools/GTE/Mathematics/Vector3.h>
 
 // Orthogonal frustum.  Let E be the origin, D be the direction vector, U be
 // the up vector, and R be the right vector.  Let u > 0 and r > 0 be the

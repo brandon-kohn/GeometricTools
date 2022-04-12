@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/Vector.h>
-#include <Mathematics/Matrix.h>
-#include <Mathematics/ChebyshevRatio.h>
+#include <GeometricTools/GTE/Mathematics/Vector.h>
+#include <GeometricTools/GTE/Mathematics/Matrix.h>
+#include <GeometricTools/GTE/Mathematics/ChebyshevRatio.h>
 
 // A quaternion is of the form
 //   q = x * i + y * j + z * k + w * 1 = x * i + y * j + z * k + w

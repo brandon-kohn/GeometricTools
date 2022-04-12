@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/Vector3.h>
+#include <GeometricTools/GTE/Mathematics/Vector3.h>
 
 // The circle is the intersection of the sphere |X-C|^2 = r^2 and the
 // plane Dot(N,X-C) = 0, where C is the circle center, r is the radius,

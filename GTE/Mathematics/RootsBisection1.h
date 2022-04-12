@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/Logger.h>
-#include <Mathematics/Math.h>
+#include <GeometricTools/GTE/Mathematics/Logger.h>
+#include <GeometricTools/GTE/Mathematics/Math.h>
 #include <functional>
 
 // Estimate a root on an interval [tMin,tMax] for a continuous function F(t)

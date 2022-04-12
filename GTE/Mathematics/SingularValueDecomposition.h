@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/Logger.h>
-#include <Mathematics/Math.h>
+#include <GeometricTools/GTE/Mathematics/Logger.h>
+#include <GeometricTools/GTE/Mathematics/Math.h>
 #include <algorithm>
 #include <functional>
 #include <vector>

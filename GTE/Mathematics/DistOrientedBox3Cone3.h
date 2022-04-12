@@ -7,13 +7,13 @@
 
 #pragma once
 
-#include <Mathematics/DCPQuery.h>
-#include <Mathematics/Cone.h>
-#include <Mathematics/OrientedBox.h>
-#include <Mathematics/LCPSolver.h>
-#include <Mathematics/Matrix.h>
-#include <Mathematics/Minimize1.h>
-#include <Mathematics/Vector3.h>
+#include <GeometricTools/GTE/Mathematics/DCPQuery.h>
+#include <GeometricTools/GTE/Mathematics/Cone.h>
+#include <GeometricTools/GTE/Mathematics/OrientedBox.h>
+#include <GeometricTools/GTE/Mathematics/LCPSolver.h>
+#include <GeometricTools/GTE/Mathematics/Matrix.h>
+#include <GeometricTools/GTE/Mathematics/Minimize1.h>
+#include <GeometricTools/GTE/Mathematics/Vector3.h>
 
 // Compute the distance between an oriented box and a cone frustum. The
 // frustum is part of a single-sided cone with heights measured along the

@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/NURBSCurve.h>
+#include <GeometricTools/GTE/Mathematics/NURBSCurve.h>
 
 // The algorithm for representing a circle as a NURBS curve or a sphere as a
 // NURBS surface is described in

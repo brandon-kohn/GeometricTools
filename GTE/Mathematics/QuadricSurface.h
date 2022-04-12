@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/Logger.h>
-#include <Mathematics/ArbitraryPrecision.h>
-#include <Mathematics/Matrix3x3.h>
+#include <GeometricTools/GTE/Mathematics/Logger.h>
+#include <GeometricTools/GTE/Mathematics/ArbitraryPrecision.h>
+#include <GeometricTools/GTE/Mathematics/Matrix3x3.h>
 
 // A quadric surface is defined implicitly by
 //

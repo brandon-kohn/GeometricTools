@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/GVector.h>
+#include <GeometricTools/GTE/Mathematics/GVector.h>
 #include <functional>
 
 // The differential equation is dx/dt = F(t,x).  The TVector template

@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/Vector.h>
+#include <GeometricTools/GTE/Mathematics/Vector.h>
 
 // The line is represented by P+t*D, where P is an origin point, D is a
 // unit-length direction vector, and t is any real number.  The user must

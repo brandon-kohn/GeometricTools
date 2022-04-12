@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/Vector3.h>
+#include <GeometricTools/GTE/Mathematics/Vector3.h>
 
 // Queries about the relation of a point to various geometric objects.  The
 // choices for N when using UIntegerFP32<N> for either BSNumber of BSRational

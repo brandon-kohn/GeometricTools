@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/ApprOrthogonalLine3.h>
-#include <Mathematics/Cylinder3.h>
-#include <Mathematics/DistPointLine.h>
+#include <GeometricTools/GTE/Mathematics/ApprOrthogonalLine3.h>
+#include <GeometricTools/GTE/Mathematics/Cylinder3.h>
+#include <GeometricTools/GTE/Mathematics/DistPointLine.h>
 
 namespace gte
 {

@@ -7,10 +7,10 @@
 
 #pragma once
 
-#include <Mathematics/TIQuery.h>
-#include <Mathematics/FIQuery.h>
-#include <Mathematics/Hyperplane.h>
-#include <Mathematics/Vector.h>
+#include <GeometricTools/GTE/Mathematics/TIQuery.h>
+#include <GeometricTools/GTE/Mathematics/FIQuery.h>
+#include <GeometricTools/GTE/Mathematics/Hyperplane.h>
+#include <GeometricTools/GTE/Mathematics/Vector.h>
 #include <list>
 #include <vector>
 

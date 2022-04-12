@@ -38,9 +38,9 @@
 // definite. If M' is not positive definite, the root is halved for a finite
 // number of steps until M' is positive definite.
 
-#include <Mathematics/ContOrientedBox3.h>
-#include <Mathematics/Hyperellipsoid.h>
-#include <Mathematics/RootsPolynomial.h>
+#include <GeometricTools/GTE/Mathematics/ContOrientedBox3.h>
+#include <GeometricTools/GTE/Mathematics/Hyperellipsoid.h>
+#include <GeometricTools/GTE/Mathematics/RootsPolynomial.h>
 
 namespace gte
 {

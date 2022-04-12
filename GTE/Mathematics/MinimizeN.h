@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/GVector.h>
-#include <Mathematics/Minimize1.h>
+#include <GeometricTools/GTE/Mathematics/GVector.h>
+#include <GeometricTools/GTE/Mathematics/Minimize1.h>
 #include <cstring>
 
 // The Cartesian-product domain provided to GetMinimum(*) has minimum values

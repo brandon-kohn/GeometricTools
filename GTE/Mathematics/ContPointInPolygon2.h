@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/Vector2.h>
+#include <GeometricTools/GTE/Mathematics/Vector2.h>
 
 // Given a polygon as an order list of vertices (x[i],y[i]) for 0 <= i < N
 // and a test point (xt,yt), return 'true' if (xt,yt) is in the polygon and

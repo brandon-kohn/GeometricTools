@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/DisjointIntervals.h>
+#include <GeometricTools/GTE/Mathematics/DisjointIntervals.h>
 #include <functional>
 
 namespace gte

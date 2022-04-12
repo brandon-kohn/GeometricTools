@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/DistLine3CanonicalBox3.h>
-#include <Mathematics/DistPointCanonicalBox.h>
-#include <Mathematics/Segment.h>
+#include <GeometricTools/GTE/Mathematics/DistLine3CanonicalBox3.h>
+#include <GeometricTools/GTE/Mathematics/DistPointCanonicalBox.h>
+#include <GeometricTools/GTE/Mathematics/Segment.h>
 
 // Compute the distance between a segment and a solid canonical box in 3D.
 // 

@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/Quaternion.h>
+#include <GeometricTools/GTE/Mathematics/Quaternion.h>
 
 // The spherical linear interpolation (slerp) of unit-length quaternions
 // q0 and q1 for t in [0,1] and theta in (0,pi) is

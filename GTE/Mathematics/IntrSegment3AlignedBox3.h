@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/IntrIntervals.h>
-#include <Mathematics/IntrLine3AlignedBox3.h>
-#include <Mathematics/Segment.h>
+#include <GeometricTools/GTE/Mathematics/IntrIntervals.h>
+#include <GeometricTools/GTE/Mathematics/IntrLine3AlignedBox3.h>
+#include <GeometricTools/GTE/Mathematics/Segment.h>
 
 // The test-intersection queries use the method of separating axes.
 // https://www.geometrictools.com/Documentation/MethodOfSeparatingAxes.pdf

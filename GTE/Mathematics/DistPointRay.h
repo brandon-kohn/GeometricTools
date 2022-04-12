@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/DCPQuery.h>
-#include <Mathematics/Ray.h>
+#include <GeometricTools/GTE/Mathematics/DCPQuery.h>
+#include <GeometricTools/GTE/Mathematics/Ray.h>
 
 // Compute the distance between a point and a ray in nD.
 // 

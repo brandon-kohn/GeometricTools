@@ -7,10 +7,10 @@
 
 #pragma once
 
-#include <Mathematics/Matrix.h>
-#include <Mathematics/Vector3.h>
-#include <Mathematics/Hypersphere.h>
-#include <Mathematics/SymmetricEigensolver.h>
+#include <GeometricTools/GTE/Mathematics/Matrix.h>
+#include <GeometricTools/GTE/Mathematics/Vector3.h>
+#include <GeometricTools/GTE/Mathematics/Hypersphere.h>
+#include <GeometricTools/GTE/Mathematics/SymmetricEigensolver.h>
 
 namespace gte
 {

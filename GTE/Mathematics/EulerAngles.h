@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/Vector.h>
+#include <GeometricTools/GTE/Mathematics/Vector.h>
 
 // The Euler angle data structure for representing rotations.  See the
 // document

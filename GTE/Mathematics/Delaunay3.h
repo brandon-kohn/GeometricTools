@@ -7,12 +7,12 @@
 
 #pragma once
 
-#include <Mathematics/Logger.h>
-#include <Mathematics/PrimalQuery3.h>
-#include <Mathematics/TSManifoldMesh.h>
-#include <Mathematics/Line.h>
-#include <Mathematics/Hyperplane.h>
-#include <Mathematics/SWInterval.h>
+#include <GeometricTools/GTE/Mathematics/Logger.h>
+#include <GeometricTools/GTE/Mathematics/PrimalQuery3.h>
+#include <GeometricTools/GTE/Mathematics/TSManifoldMesh.h>
+#include <GeometricTools/GTE/Mathematics/Line.h>
+#include <GeometricTools/GTE/Mathematics/Hyperplane.h>
+#include <GeometricTools/GTE/Mathematics/SWInterval.h>
 #include <numeric>
 #include <set>
 #include <unordered_set>

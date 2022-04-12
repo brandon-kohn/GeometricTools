@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/OrientedBox.h>
-#include <Mathematics/ConvexHull2.h>
+#include <GeometricTools/GTE/Mathematics/OrientedBox.h>
+#include <GeometricTools/GTE/Mathematics/ConvexHull2.h>
 
 // Compute a minimum-area oriented box containing the specified points. The
 // algorithm uses the rotating calipers method, but with a dual pair of

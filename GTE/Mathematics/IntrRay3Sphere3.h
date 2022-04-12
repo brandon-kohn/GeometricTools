@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/IntrIntervals.h>
-#include <Mathematics/IntrLine3Sphere3.h>
-#include <Mathematics/Ray.h>
+#include <GeometricTools/GTE/Mathematics/IntrIntervals.h>
+#include <GeometricTools/GTE/Mathematics/IntrLine3Sphere3.h>
+#include <GeometricTools/GTE/Mathematics/Ray.h>
 
 // The queries consider the sphere to be a solid.
 //

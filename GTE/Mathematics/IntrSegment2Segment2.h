@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/Segment.h>
-#include <Mathematics/IntrIntervals.h>
-#include <Mathematics/IntrLine2Line2.h>
+#include <GeometricTools/GTE/Mathematics/Segment.h>
+#include <GeometricTools/GTE/Mathematics/IntrIntervals.h>
+#include <GeometricTools/GTE/Mathematics/IntrLine2Line2.h>
 
 namespace gte
 {

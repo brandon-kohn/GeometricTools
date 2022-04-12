@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/BandedMatrix.h>
-#include <Mathematics/BasisFunction.h>
-#include <Mathematics/Vector3.h>
+#include <GeometricTools/GTE/Mathematics/BandedMatrix.h>
+#include <GeometricTools/GTE/Mathematics/BasisFunction.h>
+#include <GeometricTools/GTE/Mathematics/Vector3.h>
 
 // The algorithm implemented here is based on the document
 // https://www.geometrictools.com/Documentation/BSplineSurfaceLeastSquaresFit.pdf

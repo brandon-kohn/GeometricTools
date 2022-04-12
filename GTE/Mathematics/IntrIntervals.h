@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/FIQuery.h>
-#include <Mathematics/TIQuery.h>
+#include <GeometricTools/GTE/Mathematics/FIQuery.h>
+#include <GeometricTools/GTE/Mathematics/TIQuery.h>
 #include <array>
 
 // The intervals are of the form [t0,t1], [t0,+infinity) or (-infinity,t1].

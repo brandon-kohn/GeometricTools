@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/ApprQuery.h>
-#include <Mathematics/Array2.h>
-#include <Mathematics/GMatrix.h>
+#include <GeometricTools/GTE/Mathematics/ApprQuery.h>
+#include <GeometricTools/GTE/Mathematics/Array2.h>
+#include <GeometricTools/GTE/Mathematics/GMatrix.h>
 #include <array>
 
 // The samples are (x[i],w[i]) for 0 <= i < S. Think of w as a function of

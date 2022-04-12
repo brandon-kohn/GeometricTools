@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/ConvexHull3.h>
-#include <Mathematics/Hyperplane.h>
+#include <GeometricTools/GTE/Mathematics/ConvexHull3.h>
+#include <GeometricTools/GTE/Mathematics/Hyperplane.h>
 
 // Separate two point sets, if possible, by computing a plane for which the
 // point sets lie on opposite sides.  The algorithm computes the convex hull

@@ -38,10 +38,10 @@
 // definite. If M' is not positive definite, the root is halved for a finite
 // number of steps until M' is positive definite.
 
-#include <Mathematics/ContOrientedBox2.h>
-#include <Mathematics/Hyperellipsoid.h>
-#include <Mathematics/Matrix2x2.h>
-#include <Mathematics/RootsPolynomial.h>
+#include <GeometricTools/GTE/Mathematics/ContOrientedBox2.h>
+#include <GeometricTools/GTE/Mathematics/Hyperellipsoid.h>
+#include <GeometricTools/GTE/Mathematics/Matrix2x2.h>
+#include <GeometricTools/GTE/Mathematics/RootsPolynomial.h>
 
 namespace gte
 {

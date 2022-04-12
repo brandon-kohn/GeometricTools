@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/Matrix.h>
-#include <Mathematics/GMatrix.h>
+#include <GeometricTools/GTE/Mathematics/Matrix.h>
+#include <GeometricTools/GTE/Mathematics/GMatrix.h>
 
 namespace gte
 {

@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/Delaunay3.h>
+#include <GeometricTools/GTE/Mathematics/Delaunay3.h>
 
 namespace gte
 {

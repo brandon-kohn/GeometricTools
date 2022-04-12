@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/IntrSegment2Circle2.h>
-#include <Mathematics/Arc2.h>
+#include <GeometricTools/GTE/Mathematics/IntrSegment2Circle2.h>
+#include <GeometricTools/GTE/Mathematics/Arc2.h>
 
 // The queries consider the arc to be a 1-dimensional object.
 

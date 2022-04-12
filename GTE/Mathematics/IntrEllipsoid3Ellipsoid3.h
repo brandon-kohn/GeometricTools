@@ -7,13 +7,13 @@
 
 #pragma once
 
-#include <Mathematics/Logger.h>
-#include <Mathematics/TIQuery.h>
-#include <Mathematics/Hyperellipsoid.h>
-#include <Mathematics/Matrix3x3.h>
-#include <Mathematics/RootsBisection.h>
-#include <Mathematics/RootsPolynomial.h>
-#include <Mathematics/SymmetricEigensolver3x3.h>
+#include <GeometricTools/GTE/Mathematics/Logger.h>
+#include <GeometricTools/GTE/Mathematics/TIQuery.h>
+#include <GeometricTools/GTE/Mathematics/Hyperellipsoid.h>
+#include <GeometricTools/GTE/Mathematics/Matrix3x3.h>
+#include <GeometricTools/GTE/Mathematics/RootsBisection.h>
+#include <GeometricTools/GTE/Mathematics/RootsPolynomial.h>
+#include <GeometricTools/GTE/Mathematics/SymmetricEigensolver3x3.h>
 
 namespace gte
 {

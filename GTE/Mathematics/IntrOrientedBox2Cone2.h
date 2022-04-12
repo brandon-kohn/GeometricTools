@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/IntrRay2OrientedBox2.h>
-#include <Mathematics/Cone.h>
+#include <GeometricTools/GTE/Mathematics/IntrRay2OrientedBox2.h>
+#include <GeometricTools/GTE/Mathematics/Cone.h>
 
 // The queries consider the box and cone to be solids.
 //

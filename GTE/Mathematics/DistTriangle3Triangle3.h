@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/DistSegment3Triangle3.h>
+#include <GeometricTools/GTE/Mathematics/DistSegment3Triangle3.h>
 
 // Compute the distance between two solid triangles in 3D.
 // 

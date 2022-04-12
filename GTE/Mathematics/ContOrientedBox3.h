@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/ApprGaussian3.h>
-#include <Mathematics/Matrix3x3.h>
-#include <Mathematics/Rotation.h>
+#include <GeometricTools/GTE/Mathematics/ApprGaussian3.h>
+#include <GeometricTools/GTE/Mathematics/Matrix3x3.h>
+#include <GeometricTools/GTE/Mathematics/Rotation.h>
 
 namespace gte
 {

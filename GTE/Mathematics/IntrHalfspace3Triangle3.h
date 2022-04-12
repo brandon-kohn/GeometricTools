@@ -7,11 +7,11 @@
 
 #pragma once
 
-#include <Mathematics/FIQuery.h>
-#include <Mathematics/TIQuery.h>
-#include <Mathematics/Vector3.h>
-#include <Mathematics/Halfspace.h>
-#include <Mathematics/Triangle.h>
+#include <GeometricTools/GTE/Mathematics/FIQuery.h>
+#include <GeometricTools/GTE/Mathematics/TIQuery.h>
+#include <GeometricTools/GTE/Mathematics/Vector3.h>
+#include <GeometricTools/GTE/Mathematics/Halfspace.h>
+#include <GeometricTools/GTE/Mathematics/Triangle.h>
 
 // Queries for intersection of objects with halfspaces.  These are useful for
 // containment testing, object culling, and clipping.

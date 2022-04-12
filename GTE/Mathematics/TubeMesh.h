@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/Mesh.h>
-#include <Mathematics/FrenetFrame.h>
+#include <GeometricTools/GTE/Mathematics/Mesh.h>
+#include <GeometricTools/GTE/Mathematics/FrenetFrame.h>
 #include <functional>
 #include <memory>
 

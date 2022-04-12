@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/RootsPolynomial.h>
+#include <GeometricTools/GTE/Mathematics/RootsPolynomial.h>
 #include <array>
 #include <functional>
 

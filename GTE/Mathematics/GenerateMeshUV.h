@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/Vector2.h>
-#include <Mathematics/Vector3.h>
-#include <Mathematics/ETManifoldMesh.h>
+#include <GeometricTools/GTE/Mathematics/Vector2.h>
+#include <GeometricTools/GTE/Mathematics/Vector3.h>
+#include <GeometricTools/GTE/Mathematics/ETManifoldMesh.h>
 #include <cstdint>
 #include <cstring>
 #include <functional>

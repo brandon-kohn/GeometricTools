@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/Math.h>
+#include <GeometricTools/GTE/Mathematics/Math.h>
 
 // Minimax polynomial approximations to log2(x).  The polynomial p(x) of
 // degree D minimizes the quantity maximum{|log2(x) - p(x)| : x in [1,2]}

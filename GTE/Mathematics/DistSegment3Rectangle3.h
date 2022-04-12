@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/DistLine3Rectangle3.h>
-#include <Mathematics/DistPointRectangle.h>
-#include <Mathematics/Segment.h>
+#include <GeometricTools/GTE/Mathematics/DistLine3Rectangle3.h>
+#include <GeometricTools/GTE/Mathematics/DistPointRectangle.h>
+#include <GeometricTools/GTE/Mathematics/Segment.h>
 
 // Compute the distance between a segment and a solid rectangle in 3D.
 // 

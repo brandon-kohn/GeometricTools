@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/DCPQuery.h>
-#include <Mathematics/Cylinder3.h>
-#include <Mathematics/Vector3.h>
+#include <GeometricTools/GTE/Mathematics/DCPQuery.h>
+#include <GeometricTools/GTE/Mathematics/Cylinder3.h>
+#include <GeometricTools/GTE/Mathematics/Vector3.h>
 
 // The queries consider the cylinder to be a solid.
 

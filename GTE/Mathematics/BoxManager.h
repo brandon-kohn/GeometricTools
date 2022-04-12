@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/IntrAlignedBox3AlignedBox3.h>
-#include <Mathematics/EdgeKey.h>
+#include <GeometricTools/GTE/Mathematics/IntrAlignedBox3AlignedBox3.h>
+#include <GeometricTools/GTE/Mathematics/EdgeKey.h>
 #include <set>
 #include <vector>
 

@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/TIQuery.h>
-#include <Mathematics/Frustum3.h>
-#include <Mathematics/OrientedBox.h>
+#include <GeometricTools/GTE/Mathematics/TIQuery.h>
+#include <GeometricTools/GTE/Mathematics/Frustum3.h>
+#include <GeometricTools/GTE/Mathematics/OrientedBox.h>
 
 // The test-intersection query uses the method of separating axes.
 // https://www.geometrictools.com/Documentation/MethodOfSeparatingAxes.pdf

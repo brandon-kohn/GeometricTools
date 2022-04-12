@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/DistLine3OrientedBox3.h>
-#include <Mathematics/DistPointOrientedBox.h>
-#include <Mathematics/Segment.h>
+#include <GeometricTools/GTE/Mathematics/DistLine3OrientedBox3.h>
+#include <GeometricTools/GTE/Mathematics/DistPointOrientedBox.h>
+#include <GeometricTools/GTE/Mathematics/Segment.h>
 
 // Compute the distance between a segment and a solid orienteded box in 3D.
 // 

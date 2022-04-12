@@ -7,11 +7,11 @@
 
 #pragma once
 
-#include <Mathematics/DCPQuery.h>
-#include <Mathematics/Line.h>
-#include <Mathematics/AlignedBox.h>
-#include <Mathematics/OrientedBox.h>
-#include <Mathematics/Vector2.h>
+#include <GeometricTools/GTE/Mathematics/DCPQuery.h>
+#include <GeometricTools/GTE/Mathematics/Line.h>
+#include <GeometricTools/GTE/Mathematics/AlignedBox.h>
+#include <GeometricTools/GTE/Mathematics/OrientedBox.h>
+#include <GeometricTools/GTE/Mathematics/Vector2.h>
 
 // Compute the distance between a line and a solid aligned box in 2D.
 //

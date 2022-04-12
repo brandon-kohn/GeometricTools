@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/Vector.h>
+#include <GeometricTools/GTE/Mathematics/Vector.h>
 
 // The segment is represented by (1-t)*P0 + t*P1, where P0 and P1 are the
 // endpoints of the segment and 0 <= t <= 1.  Some algorithms prefer a

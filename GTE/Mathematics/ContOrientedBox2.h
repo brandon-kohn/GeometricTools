@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/ApprGaussian2.h>
+#include <GeometricTools/GTE/Mathematics/ApprGaussian2.h>
 
 namespace gte
 {

@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/Math.h>
-#include <Mathematics/RangeIteration.h>
+#include <GeometricTools/GTE/Mathematics/Math.h>
+#include <GeometricTools/GTE/Mathematics/RangeIteration.h>
 #include <algorithm>
 #include <cstring>
 #include <vector>

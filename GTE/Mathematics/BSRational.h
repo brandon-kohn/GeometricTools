@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/BSNumber.h>
+#include <GeometricTools/GTE/Mathematics/BSNumber.h>
 
 // See the comments in BSNumber.h about the UInteger requirements. The
 // denominator of a BSRational is chosen to be positive, which allows some

@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/Vector.h>
+#include <GeometricTools/GTE/Mathematics/Vector.h>
 
 // The halfspace is represented as Dot(N,X) >= c where N is a unit-length
 // normal vector, c is the plane constant, and X is any point in space.

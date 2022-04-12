@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/TIQuery.h>
-#include <Mathematics/DistPointHyperplane.h>
-#include <Mathematics/OrientedBox.h>
+#include <GeometricTools/GTE/Mathematics/TIQuery.h>
+#include <GeometricTools/GTE/Mathematics/DistPointHyperplane.h>
+#include <GeometricTools/GTE/Mathematics/OrientedBox.h>
 
 namespace gte
 {

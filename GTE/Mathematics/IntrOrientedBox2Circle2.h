@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/IntrAlignedBox2Circle2.h>
-#include <Mathematics/DistPointOrientedBox.h>
+#include <GeometricTools/GTE/Mathematics/IntrAlignedBox2Circle2.h>
+#include <GeometricTools/GTE/Mathematics/DistPointOrientedBox.h>
 
 // The find-intersection query is based on the document
 // https://www.geometrictools.com/Documentation/IntersectionMovingCircleRectangle.pdf

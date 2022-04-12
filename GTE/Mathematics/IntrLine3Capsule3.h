@@ -7,11 +7,11 @@
 
 #pragma once
 
-#include <Mathematics/FIQuery.h>
-#include <Mathematics/TIQuery.h>
-#include <Mathematics/DistLineSegment.h>
-#include <Mathematics/Capsule.h>
-#include <Mathematics/Vector3.h>
+#include <GeometricTools/GTE/Mathematics/FIQuery.h>
+#include <GeometricTools/GTE/Mathematics/TIQuery.h>
+#include <GeometricTools/GTE/Mathematics/DistLineSegment.h>
+#include <GeometricTools/GTE/Mathematics/Capsule.h>
+#include <GeometricTools/GTE/Mathematics/Vector3.h>
 
 // The queries consider the capsule to be a solid.
 //

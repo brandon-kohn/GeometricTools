@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/IntrCircle2Circle2.h>
-#include <Mathematics/Arc2.h>
+#include <GeometricTools/GTE/Mathematics/IntrCircle2Circle2.h>
+#include <GeometricTools/GTE/Mathematics/Arc2.h>
 
 namespace gte
 {

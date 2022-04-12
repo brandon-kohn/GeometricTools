@@ -7,10 +7,10 @@
 
 #pragma once
 
-#include <Mathematics/IntrIntervals.h>
-#include <Mathematics/IntrLine3Ellipsoid3.h>
-#include <Mathematics/Ray.h>
-#include <Mathematics/Matrix3x3.h>
+#include <GeometricTools/GTE/Mathematics/IntrIntervals.h>
+#include <GeometricTools/GTE/Mathematics/IntrLine3Ellipsoid3.h>
+#include <GeometricTools/GTE/Mathematics/Ray.h>
+#include <GeometricTools/GTE/Mathematics/Matrix3x3.h>
 
 // The queries consider the ellipsoid to be a solid.
 //

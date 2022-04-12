@@ -52,11 +52,11 @@
 // The details of the algorithms and implementation are provided in
 // https://www.geometrictools.com/Documentation/IncrementalDelaunayTriangulation.pdf
 
-#include <Mathematics/ArbitraryPrecision.h>
-#include <Mathematics/MinHeap.h>
-#include <Mathematics/SWInterval.h>
-#include <Mathematics/Vector2.h>
-#include <Mathematics/VETManifoldMesh.h>
+#include <GeometricTools/GTE/Mathematics/ArbitraryPrecision.h>
+#include <GeometricTools/GTE/Mathematics/MinHeap.h>
+#include <GeometricTools/GTE/Mathematics/SWInterval.h>
+#include <GeometricTools/GTE/Mathematics/Vector2.h>
+#include <GeometricTools/GTE/Mathematics/VETManifoldMesh.h>
 #include <functional>
 #include <map>
 #include <set>

@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/ApprQuery.h>
-#include <Mathematics/SymmetricEigensolver3x3.h>
-#include <Mathematics/Vector3.h>
+#include <GeometricTools/GTE/Mathematics/ApprQuery.h>
+#include <GeometricTools/GTE/Mathematics/SymmetricEigensolver3x3.h>
+#include <GeometricTools/GTE/Mathematics/Vector3.h>
 
 // Least-squares fit of a plane to (x,y,z) data by using distance measurements
 // orthogonal to the proposed plane. The return value is 'true' if and only if

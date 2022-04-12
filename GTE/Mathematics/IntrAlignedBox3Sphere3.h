@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/DistPointAlignedBox.h>
-#include <Mathematics/IntrRay3AlignedBox3.h>
-#include <Mathematics/Hypersphere.h>
+#include <GeometricTools/GTE/Mathematics/DistPointAlignedBox.h>
+#include <GeometricTools/GTE/Mathematics/IntrRay3AlignedBox3.h>
+#include <GeometricTools/GTE/Mathematics/Hypersphere.h>
 
 // The find-intersection query is based on the document
 // https://www.geometrictools.com/Documentation/IntersectionMovingSphereBox.pdf

@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/Logger.h>
-#include <Mathematics/Math.h>
-#include <Mathematics/Polynomial1.h>
+#include <GeometricTools/GTE/Mathematics/Logger.h>
+#include <GeometricTools/GTE/Mathematics/Math.h>
+#include <GeometricTools/GTE/Mathematics/Polynomial1.h>
 #include <array>
 
 // IntpBSplineUniform is the class for B-spline interpolation of uniformly

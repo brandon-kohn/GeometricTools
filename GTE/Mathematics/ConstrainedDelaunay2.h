@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/Delaunay2.h>
+#include <GeometricTools/GTE/Mathematics/Delaunay2.h>
 
 // Compute the Delaunay triangulation of the input point and then insert
 // edges that are constrained to be in the triangulation. For each such

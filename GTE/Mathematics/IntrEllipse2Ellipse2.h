@@ -7,14 +7,14 @@
 
 #pragma once
 
-#include <Mathematics/Logger.h>
-#include <Mathematics/FIQuery.h>
-#include <Mathematics/TIQuery.h>
-#include <Mathematics/Hyperellipsoid.h>
-#include <Mathematics/RootsBisection.h>
-#include <Mathematics/RootsPolynomial.h>
-#include <Mathematics/SymmetricEigensolver2x2.h>
-#include <Mathematics/Matrix2x2.h>
+#include <GeometricTools/GTE/Mathematics/Logger.h>
+#include <GeometricTools/GTE/Mathematics/FIQuery.h>
+#include <GeometricTools/GTE/Mathematics/TIQuery.h>
+#include <GeometricTools/GTE/Mathematics/Hyperellipsoid.h>
+#include <GeometricTools/GTE/Mathematics/RootsBisection.h>
+#include <GeometricTools/GTE/Mathematics/RootsPolynomial.h>
+#include <GeometricTools/GTE/Mathematics/SymmetricEigensolver2x2.h>
+#include <GeometricTools/GTE/Mathematics/Matrix2x2.h>
 
 // The test-intersection and find-intersection queries implemented here are
 // discussed in the document

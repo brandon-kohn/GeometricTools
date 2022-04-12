@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/IntrIntervals.h>
-#include <Mathematics/IntrLine2Triangle2.h>
-#include <Mathematics/Segment.h>
+#include <GeometricTools/GTE/Mathematics/IntrIntervals.h>
+#include <GeometricTools/GTE/Mathematics/IntrLine2Triangle2.h>
+#include <GeometricTools/GTE/Mathematics/Segment.h>
 
 // The queries consider the triangle to be a solid.
 

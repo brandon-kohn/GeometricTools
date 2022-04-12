@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/FIQuery.h>
-#include <Mathematics/Cylinder3.h>
-#include <Mathematics/Vector3.h>
+#include <GeometricTools/GTE/Mathematics/FIQuery.h>
+#include <GeometricTools/GTE/Mathematics/Cylinder3.h>
+#include <GeometricTools/GTE/Mathematics/Vector3.h>
 
 // The queries consider the cylinder to be a solid.
 

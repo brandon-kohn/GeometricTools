@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/ContScribeCircle2.h>
+#include <GeometricTools/GTE/Mathematics/ContScribeCircle2.h>
 #include <vector>
 
 // The ellipse is (x/a)^2 + (y/b)^2 = 1, but only the portion in the first

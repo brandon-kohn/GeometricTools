@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/DistLine2AlignedBox2.h>
+#include <GeometricTools/GTE/Mathematics/DistLine2AlignedBox2.h>
 
 // Compute the distance between a line and a solid oriented box in 2D.
 // 

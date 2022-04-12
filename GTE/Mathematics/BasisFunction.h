@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/Logger.h>
-#include <Mathematics/Math.h>
-#include <Mathematics/Array2.h>
+#include <GeometricTools/GTE/Mathematics/Logger.h>
+#include <GeometricTools/GTE/Mathematics/Math.h>
+#include <GeometricTools/GTE/Mathematics/Array2.h>
 #include <array>
 #include <cstring>
 

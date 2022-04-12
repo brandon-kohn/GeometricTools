@@ -7,10 +7,10 @@
 
 #pragma once
 
-#include <Mathematics/MarchingCubes.h>
-#include <Mathematics/Image3.h>
-#include <Mathematics/UniqueVerticesSimplices.h>
-#include <Mathematics/Vector3.h>
+#include <GeometricTools/GTE/Mathematics/MarchingCubes.h>
+#include <GeometricTools/GTE/Mathematics/Image3.h>
+#include <GeometricTools/GTE/Mathematics/UniqueVerticesSimplices.h>
+#include <GeometricTools/GTE/Mathematics/Vector3.h>
 
 namespace gte
 {

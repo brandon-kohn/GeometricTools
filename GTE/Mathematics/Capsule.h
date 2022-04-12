@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/Segment.h>
+#include <GeometricTools/GTE/Mathematics/Segment.h>
 
 // A capsule is the set of points that are equidistant from a segment, the
 // common distance called the radius.

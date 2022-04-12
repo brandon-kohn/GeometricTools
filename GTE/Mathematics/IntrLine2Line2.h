@@ -7,10 +7,10 @@
 
 #pragma once
 
-#include <Mathematics/Vector2.h>
-#include <Mathematics/Line.h>
-#include <Mathematics/FIQuery.h>
-#include <Mathematics/TIQuery.h>
+#include <GeometricTools/GTE/Mathematics/Vector2.h>
+#include <GeometricTools/GTE/Mathematics/Line.h>
+#include <GeometricTools/GTE/Mathematics/FIQuery.h>
+#include <GeometricTools/GTE/Mathematics/TIQuery.h>
 #include <limits>
 
 // Test-intersection and find-intersection queries for two lines. The line

@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/Vector3.h>
+#include <GeometricTools/GTE/Mathematics/Vector3.h>
 
 namespace gte
 {

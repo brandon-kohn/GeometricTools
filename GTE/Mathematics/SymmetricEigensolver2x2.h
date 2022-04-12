@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/Math.h>
+#include <GeometricTools/GTE/Mathematics/Math.h>
 #include <algorithm>
 #include <array>
 

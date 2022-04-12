@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/Vector2.h>
+#include <GeometricTools/GTE/Mathematics/Vector2.h>
 
 // A solid sector is the intersection of a disk and a 2D cone.  The disk
 // has center C, radius R, and contains points X for which |X-C| <= R.  The

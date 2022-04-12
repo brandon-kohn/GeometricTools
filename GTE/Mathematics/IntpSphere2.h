@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/Delaunay2Mesh.h>
-#include <Mathematics/IntpQuadraticNonuniform2.h>
+#include <GeometricTools/GTE/Mathematics/Delaunay2Mesh.h>
+#include <GeometricTools/GTE/Mathematics/IntpQuadraticNonuniform2.h>
 #include <memory>
 
 // Interpolation of a scalar-valued function defined on a sphere.  Although

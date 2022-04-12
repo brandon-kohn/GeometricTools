@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/Ray.h>
-#include <Mathematics/IntrLine3Cone3.h>
+#include <GeometricTools/GTE/Mathematics/Ray.h>
+#include <GeometricTools/GTE/Mathematics/IntrLine3Cone3.h>
 
 // The queries consider the cone to be single sided and solid.  The
 // cone height range is [hmin,hmax].  The cone can be infinite where

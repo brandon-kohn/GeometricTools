@@ -7,11 +7,11 @@
 
 #pragma once
 
-#include <Mathematics/FIQuery.h>
-#include <Mathematics/TIQuery.h>
-#include <Mathematics/Line.h>
-#include <Mathematics/AlignedBox.h>
-#include <Mathematics/Vector2.h>
+#include <GeometricTools/GTE/Mathematics/FIQuery.h>
+#include <GeometricTools/GTE/Mathematics/TIQuery.h>
+#include <GeometricTools/GTE/Mathematics/Line.h>
+#include <GeometricTools/GTE/Mathematics/AlignedBox.h>
+#include <GeometricTools/GTE/Mathematics/Vector2.h>
 
 // The queries consider the box to be a solid.
 //

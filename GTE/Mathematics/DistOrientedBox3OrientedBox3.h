@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/DistRectangle3OrientedBox3.h>
+#include <GeometricTools/GTE/Mathematics/DistRectangle3OrientedBox3.h>
 
 // Compute the distance between two solid oriented boxes in 3D.
 // 

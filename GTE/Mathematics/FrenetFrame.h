@@ -7,9 +7,9 @@
 
 #pragma once
 
-#include <Mathematics/ParametricCurve.h>
-#include <Mathematics/Vector2.h>
-#include <Mathematics/Vector3.h>
+#include <GeometricTools/GTE/Mathematics/ParametricCurve.h>
+#include <GeometricTools/GTE/Mathematics/Vector2.h>
+#include <GeometricTools/GTE/Mathematics/Vector3.h>
 #include <memory>
 
 namespace gte

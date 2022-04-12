@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/FeatureKey.h>
+#include <GeometricTools/GTE/Mathematics/FeatureKey.h>
 
 // An ordered edge has (V[0], V[1]) = (v0, v1).  An unordered edge has
 // (V[0], V[1]) = (min(V[0],V[1]), max(V[0],V[1])).

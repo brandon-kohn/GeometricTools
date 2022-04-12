@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include <Mathematics/ParticleSystem.h>
+#include <GeometricTools/GTE/Mathematics/ParticleSystem.h>
 #include <set>
 
 namespace gte

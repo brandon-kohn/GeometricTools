@@ -7,10 +7,10 @@
 
 #pragma once
 
-#include <Mathematics/TIQuery.h>
-#include <Mathematics/Halfspace.h>
-#include <Mathematics/Hyperellipsoid.h>
-#include <Mathematics/Matrix3x3.h>
+#include <GeometricTools/GTE/Mathematics/TIQuery.h>
+#include <GeometricTools/GTE/Mathematics/Halfspace.h>
+#include <GeometricTools/GTE/Mathematics/Hyperellipsoid.h>
+#include <GeometricTools/GTE/Mathematics/Matrix3x3.h>
 
 // Queries for intersection of objects with halfspaces.  These are useful for
 // containment testing, object culling, and clipping.

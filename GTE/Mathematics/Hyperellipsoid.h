@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/Matrix.h>
-#include <Mathematics/SymmetricEigensolver.h>
+#include <GeometricTools/GTE/Mathematics/Matrix.h>
+#include <GeometricTools/GTE/Mathematics/SymmetricEigensolver.h>
 
 // A hyperellipsoid has center K; axis directions U[0] through U[N-1], all
 // unit-length vectors; and extents e[0] through e[N-1], all positive numbers.

@@ -7,8 +7,8 @@
 
 #pragma once
 
-#include <Mathematics/DistOrientedBox3OrientedBox3.h>
-#include <Mathematics/AlignedBox.h>
+#include <GeometricTools/GTE/Mathematics/DistOrientedBox3OrientedBox3.h>
+#include <GeometricTools/GTE/Mathematics/AlignedBox.h>
 
 // Compute the distance between solid aligned and oriented boxes in 3D.
 // 

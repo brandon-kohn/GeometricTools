@@ -25,7 +25,7 @@ namespace gte
         //   float x; // in [-pi/2,pi/2]
         //   float result = CosEstimate<float>::Degree<4>(x);
         template <int32_t D>
-        inline static Real Degree(Real x)
+        inline constexpr static Real Degree(Real x)
         {
             return Evaluate(degree<D>(), x);
         }
@@ -36,7 +36,7 @@ namespace gte
         //   float x;  // x any real number
         //   float result = CosEstimate<float>::DegreeRR<3>(x);
         template <int32_t D>
-        inline static Real DegreeRR(Real x)
+        inline constexpr static Real DegreeRR(Real x)
         {
             Real y, sign;
             Reduce(x, y, sign);
@@ -49,7 +49,7 @@ namespace gte
         // of a template member function.
         template <int32_t D> struct degree {};
 
-        inline static Real Evaluate(degree<2>, Real x)
+        inline constexpr static Real Evaluate(degree<2>, Real x)
         {
             Real xsqr = x * x;
             Real poly;
@@ -58,7 +58,7 @@ namespace gte
             return poly;
         }
 
-        inline static Real Evaluate(degree<4>, Real x)
+        inline constexpr static Real Evaluate(degree<4>, Real x)
         {
             Real xsqr = x * x;
             Real poly;
@@ -68,7 +68,7 @@ namespace gte
             return poly;
         }
 
-        inline static Real Evaluate(degree<6>, Real x)
+        inline constexpr static Real Evaluate(degree<6>, Real x)
         {
             Real xsqr = x * x;
             Real poly;
@@ -79,7 +79,7 @@ namespace gte
             return poly;
         }
 
-        inline static Real Evaluate(degree<8>, Real x)
+        inline constexpr static Real Evaluate(degree<8>, Real x)
         {
             Real xsqr = x * x;
             Real poly;
@@ -91,7 +91,7 @@ namespace gte
             return poly;
         }
 
-        inline static Real Evaluate(degree<10>, Real x)
+        inline constexpr static Real Evaluate(degree<10>, Real x)
         {
             Real xsqr = x * x;
             Real poly;
@@ -105,7 +105,7 @@ namespace gte
         }
 
         // Support for range reduction.
-        inline static void Reduce(Real x, Real& y, Real& sign)
+        inline constexpr static void Reduce(Real x, Real& y, Real& sign)
         {
             // Map x to y in [-pi,pi], x = 2*pi*quotient + remainder.
             Real quotient = (Real)GTE_C_INV_TWO_PI * x;

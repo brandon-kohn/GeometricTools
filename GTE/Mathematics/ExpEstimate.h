@@ -25,7 +25,7 @@ namespace gte
         //   float x; // in [0,1]
         //   float result = ExpEstimate<float>::Degree<3>(x);
         template <int32_t D>
-        inline static Real Degree(Real x)
+        inline constexpr static Real Degree(Real x)
         {
             return Exp2Estimate<Real>::template Degree<D>(x * (Real)GTE_C_INV_LN_2);
         }
@@ -36,7 +36,7 @@ namespace gte
         //   float x;  // x >= 0
         //   float result = ExpEstimate<float>::DegreeRR<3>(x);
         template <int32_t D>
-        inline static Real DegreeRR(Real x)
+        inline constexpr static Real DegreeRR(Real x)
         {
             return Exp2Estimate<Real>::template DegreeRR<D>(x * (Real)GTE_C_INV_LN_2);
         }

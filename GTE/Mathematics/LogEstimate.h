@@ -24,7 +24,7 @@ namespace gte
         //   float x; // in [1,2]
         //   float result = LogEstimate<float>::Degree<3>(x);
         template <int32_t D>
-        inline static Real Degree(Real x)
+        inline constexpr static Real Degree(Real x)
         {
             return Log2Estimate<Real>::Degree<D>(x) * (Real)GTE_C_LN_2;
         }
@@ -36,7 +36,7 @@ namespace gte
         //   float x;  // x > 0
         //   float result = LogEstimate<float>::DegreeRR<3>(x);
         template <int32_t D>
-        inline static Real DegreeRR(Real x)
+        inline constexpr static Real DegreeRR(Real x)
         {
             return Log2Estimate<Real>::DegreeRR<D>(x) * (Real)GTE_C_LN_2;
         }

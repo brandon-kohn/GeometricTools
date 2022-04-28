@@ -23,7 +23,7 @@ namespace gte
         //   float x; // in [1,2]
         //   float result = Log2Estimate<float>::Degree<3>(x);
         template <int32_t D>
-        inline static Real Degree(Real x)
+        inline constexpr static Real Degree(Real x)
         {
             Real t = x - (Real)1;  // t in (0,1]
             return Evaluate(degree<D>(), t);
@@ -36,7 +36,7 @@ namespace gte
         //   float x;  // x > 0
         //   float result = Log2Estimate<float>::DegreeRR<3>(x);
         template <int32_t D>
-        inline static Real DegreeRR(Real x)
+        inline constexpr static Real DegreeRR(Real x)
         {
             int32_t p;
             Real y = std::frexp(x, &p);  // y in [1/2,1)
@@ -52,7 +52,7 @@ namespace gte
         // of a template member function.
         template <int32_t D> struct degree {};
 
-        inline static Real Evaluate(degree<1>, Real t)
+        inline constexpr static Real Evaluate(degree<1>, Real t)
         {
             Real poly;
             poly = (Real)GTE_C_LOG2_DEG1_C1;
@@ -60,7 +60,7 @@ namespace gte
             return poly;
         }
 
-        inline static Real Evaluate(degree<2>, Real t)
+        inline constexpr static Real Evaluate(degree<2>, Real t)
         {
             Real poly;
             poly = (Real)GTE_C_LOG2_DEG2_C2;
@@ -69,7 +69,7 @@ namespace gte
             return poly;
         }
 
-        inline static Real Evaluate(degree<3>, Real t)
+        inline constexpr static Real Evaluate(degree<3>, Real t)
         {
             Real poly;
             poly = (Real)GTE_C_LOG2_DEG3_C3;
@@ -79,7 +79,7 @@ namespace gte
             return poly;
         }
 
-        inline static Real Evaluate(degree<4>, Real t)
+        inline constexpr static Real Evaluate(degree<4>, Real t)
         {
             Real poly;
             poly = (Real)GTE_C_LOG2_DEG4_C4;
@@ -90,7 +90,7 @@ namespace gte
             return poly;
         }
 
-        inline static Real Evaluate(degree<5>, Real t)
+        inline constexpr static Real Evaluate(degree<5>, Real t)
         {
             Real poly;
             poly = (Real)GTE_C_LOG2_DEG5_C5;
@@ -102,7 +102,7 @@ namespace gte
             return poly;
         }
 
-        inline static Real Evaluate(degree<6>, Real t)
+        inline constexpr static Real Evaluate(degree<6>, Real t)
         {
             Real poly;
             poly = (Real)GTE_C_LOG2_DEG6_C6;
@@ -115,7 +115,7 @@ namespace gte
             return poly;
         }
 
-        inline static Real Evaluate(degree<7>, Real t)
+        inline constexpr static Real Evaluate(degree<7>, Real t)
         {
             Real poly;
             poly = (Real)GTE_C_LOG2_DEG7_C7;
@@ -129,7 +129,7 @@ namespace gte
             return poly;
         }
 
-        inline static Real Evaluate(degree<8>, Real t)
+        inline constexpr static Real Evaluate(degree<8>, Real t)
         {
             Real poly;
             poly = (Real)GTE_C_LOG2_DEG8_C8;

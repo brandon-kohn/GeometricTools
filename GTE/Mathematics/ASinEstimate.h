@@ -24,7 +24,7 @@ namespace gte
         //   float x; // in [0,1]
         //   float result = ASinEstimate<float>::Degree<3>(x);
         template <int32_t D>
-        inline static Real Degree(Real x)
+        inline constexpr static Real Degree(Real x)
         {
             return (Real)GTE_C_HALF_PI - ACosEstimate<Real>::Degree<D>(x);
         }

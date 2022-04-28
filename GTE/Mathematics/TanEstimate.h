@@ -25,7 +25,7 @@ namespace gte
         //   float x; // in [-pi/4,pi/4]
         //   float result = TanEstimate<float>::Degree<3>(x);
         template <int32_t D>
-        inline static Real Degree(Real x)
+        inline constexpr static Real Degree(Real x)
         {
             return Evaluate(degree<D>(), x);
         }
@@ -40,7 +40,7 @@ namespace gte
         //   float x;  // x any real number
         //   float result = TanEstimate<float>::DegreeRR<3>(x);
         template <int32_t D>
-        inline static Real DegreeRR(Real x)
+        inline constexpr static Real DegreeRR(Real x)
         {
             Real y;
             Reduce(x, y);
@@ -65,7 +65,7 @@ namespace gte
         // of a template member function.
         template <int32_t D> struct degree {};
 
-        inline static Real Evaluate(degree<3>, Real x)
+        inline constexpr static Real Evaluate(degree<3>, Real x)
         {
             Real xsqr = x * x;
             Real poly;
@@ -75,7 +75,7 @@ namespace gte
             return poly;
         }
 
-        inline static Real Evaluate(degree<5>, Real x)
+        inline constexpr static Real Evaluate(degree<5>, Real x)
         {
             Real xsqr = x * x;
             Real poly;
@@ -86,7 +86,7 @@ namespace gte
             return poly;
         }
 
-        inline static Real Evaluate(degree<7>, Real x)
+        inline constexpr static Real Evaluate(degree<7>, Real x)
         {
             Real xsqr = x * x;
             Real poly;
@@ -98,7 +98,7 @@ namespace gte
             return poly;
         }
 
-        inline static Real Evaluate(degree<9>, Real x)
+        inline constexpr static Real Evaluate(degree<9>, Real x)
         {
             Real xsqr = x * x;
             Real poly;
@@ -111,7 +111,7 @@ namespace gte
             return poly;
         }
 
-        inline static Real Evaluate(degree<11>, Real x)
+        inline constexpr static Real Evaluate(degree<11>, Real x)
         {
             Real xsqr = x * x;
             Real poly;
@@ -125,7 +125,7 @@ namespace gte
             return poly;
         }
 
-        inline static Real Evaluate(degree<13>, Real x)
+        inline constexpr static Real Evaluate(degree<13>, Real x)
         {
             Real xsqr = x * x;
             Real poly;
@@ -141,7 +141,7 @@ namespace gte
         }
 
         // Support for range reduction.
-        inline static void Reduce(Real x, Real& y)
+        inline constexpr static void Reduce(Real x, Real& y)
         {
             // Map x to y in [-pi,pi], x = pi*quotient + remainder.
             y = std::fmod(x, (Real)GTE_C_PI);
